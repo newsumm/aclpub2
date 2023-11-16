@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#31
+FinalPaperTitle#=%=#Improving Multi-Stage Long Document Summarization with Enhanced Coarse Summarizer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Hyun-Je Song
+JobTitle#==#
+Organization#==#
+Abstract#==#Multi-stage long document summarization, which splits a long document as multiple segments and each of which is used to generate a coarse summary in multiple stage, and then the final summary is produced using the last coarse summary, is a flexible approach to capture salient information from the long document. Even if the coarse summary affects the final summary, however, the coarse summarizer in the existing multi-stage summarization is coarsely trained using data segments that are not useful to generate the final summary. In this paper, we propose a novel method for multi-stage long document summarization. The proposed method first generates new segment pairs, ensuring that all of them are relevant to generating the final summary. We then incorporate contrastive learning into the training of the coarse summarizer, which tries to maximize the similarities between source segments and the target summary during training. Through extensive experiments on six long document summarization datasets, we demonstrate that our proposed method not only enhances the existing multi-stage long document summarization approach, but also achieves performance comparable to state-of-the-art methods, including those utilizing large language models for long document summarization.
+Author{1}{Firstname}#=%=#Jinhyeong
+Author{1}{Lastname}#=%=#Lim
+Author{1}{Username}#=%=#jinhyeong-lim
+Author{1}{Email}#=%=#dlawlsgudsu@naver.com
+Author{1}{Affiliation}#=%=#Graduate School of Electrical Engineering and Computer Science, Jeonbuk National University
+Author{2}{Firstname}#=%=#Hyun-Je
+Author{2}{Lastname}#=%=#Song
+Author{2}{Username}#=%=#hyunjeng
+Author{2}{Email}#=%=#songhyunje@gmail.com
+Author{2}{Affiliation}#=%=#Jeonbuk National University
+
+==========
+èéáğö

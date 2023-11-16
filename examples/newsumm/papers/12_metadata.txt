@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#In-context Learning of Large Language Models for Controlled Dialogue Summarization: A Holistic Benchmark and Empirical Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#TANG YUTING
+JobTitle#==#
+Organization#==#
+Abstract#==#Large Language Models (LLMs) have shown significant performance in numerous NLP tasks, including summarization and controlled text generation. A notable capability of LLMs is in-context learning (ICL), where the model learns new tasks using input-output pairs in the prompt without any parameter update. However, the performance of LLMs in the context of few-shot abstractive dialogue summarization remains underexplored. This study evaluates various state-of-the-art LLMs on the SAMSum dataset within a few-shot framework. We assess these models in both controlled (entity control, length control, and person-focused planning) and uncontrolled settings, establishing a comprehensive benchmark in few-shot dialogue summarization. Our findings provide insights into summary quality and model controllability, offering a crucial reference for future research in dialogue summarization.
+Author{1}{Firstname}#=%=#Yuting
+Author{1}{Lastname}#=%=#Tang
+Author{1}{Username}#=%=#yuting_tang
+Author{1}{Email}#=%=#ytang021@e.ntu.edu.sg
+Author{1}{Affiliation}#=%=#Nanyang Technological University
+Author{2}{Firstname}#=%=#Ratish
+Author{2}{Lastname}#=%=#Puduppully
+Author{2}{Email}#=%=#puduppully_ratish_surendran@i2r.a-star.edu.sg
+Author{2}{Affiliation}#=%=#Institute for Infocomm Research (I2R), A*STAR, Singapore
+Author{3}{Firstname}#=%=#Zhengyuan
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#Liu_Zhengyuan@i2r.a-star.edu.sg
+Author{3}{Affiliation}#=%=#Institute for Infocomm Research (I2R), A*STAR, Singapore
+Author{4}{Firstname}#=%=#Nancy F.
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Email}#=%=#nfychen@i2r.a-star.edu.sg
+Author{4}{Affiliation}#=%=#Institute for Infocomm Research (I2R), A*STAR, Singapore
+
+==========
+èéáğö

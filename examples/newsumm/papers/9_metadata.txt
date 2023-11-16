@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Summarization-based Data Augmentation for Document Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Yueguan Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Despite the prevalence of pretrained language models in natural language understanding tasks, understanding lengthy text such as document is still challenging due to the data sparseness problem. Inspired by that humans develop their ability of understanding lengthy text form reading shorter text, we propose a simple yet effective summarization-based data augmentation, SUMMaug, for document classification. We first obtain easy-to-learn examples for the target document classification task by summarizing the input of the original training examples, while optionally merging the original labels to conform to the summarized input. We then use the generated pseudo examples to perform curriculum learning. Experimental results on two datasets confirmed the advantage of our method compared to existing baseline methods in terms of robustness and accuracy. We release our code and data at https://github.com/etsurin/summaug.
+Author{1}{Firstname}#=%=#Yueguan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#etsurin
+Author{1}{Email}#=%=#etsurin@iis.u-tokyo.ac.jp
+Author{1}{Affiliation}#=%=#the University of Tokyo
+Author{2}{Firstname}#=%=#Naoki
+Author{2}{Lastname}#=%=#Yoshinaga
+Author{2}{Username}#=%=#ynaga
+Author{2}{Email}#=%=#ynaga@iis.u-tokyo.ac.jp
+Author{2}{Affiliation}#=%=#Institute of Industrial Science, The University of Tokyo
+
+==========
+èéáğö

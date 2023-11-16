@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Zero-Shot Cross-Lingual Summarization via Large Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jiaan Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Given a document in a source language, cross-lingual summarization (CLS) aims to generate a summary in a different target language. Recently, the emergence of Large Language Models (LLMs), such as GPT-3.5, ChatGPT and GPT-4, has attracted wide attention from the computational linguistics community. However, it is not yet known the performance of LLMs on CLS. In this report, we empirically use various prompts to guide LLMs to perform zero-shot CLS from different paradigms (i.e., end-to-end and pipeline), and provide a preliminary evaluation on the generated summaries. We find that ChatGPT and GPT-4 originally prefer to produce lengthy summaries with detailed information. These two LLMs can further balance informativeness and conciseness with the help of an interactive prompt, significantly improving their CLS performance. Experimental results on three widely-used CLS datasets show that GPT-4 achieves state-of-the-art zero-shot CLS performance, and performs competitively compared with the fine-tuned mBART-50. Moreover, we also find some multi-lingual and bilingual LLMs (i.e., BLOOMZ, ChatGLM-6B, Vicuna-13B and ChatYuan) have limited zero-shot CLS ability. Due to the composite nature of CLS, which requires models to perform summarization and translation simultaneously, accomplishing this task in a zero-shot manner is even a challenge for LLMs. Therefore, we sincerely hope and recommend future LLM research could use CLS as a testbed.
+Author{1}{Firstname}#=%=#Jiaan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#krystal4n
+Author{1}{Email}#=%=#jawang.nlp@gmail.com
+Author{1}{Affiliation}#=%=#School of Computer Science and Technology, Soochow University, Suzhou, China
+Author{2}{Firstname}#=%=#Yunlong
+Author{2}{Lastname}#=%=#Liang
+Author{2}{Username}#=%=#yunlongliang
+Author{2}{Email}#=%=#yunlonliang@gmail.com
+Author{2}{Affiliation}#=%=#Beijing Jiaotong University
+Author{3}{Firstname}#=%=#Fandong
+Author{3}{Lastname}#=%=#Meng
+Author{3}{Username}#=%=#mengfandong
+Author{3}{Email}#=%=#fandongmeng@tencent.com
+Author{3}{Affiliation}#=%=#WeChat AI, Tencent
+Author{4}{Firstname}#=%=#Beiqi
+Author{4}{Lastname}#=%=#Zou
+Author{4}{Username}#=%=#beiqizou
+Author{4}{Email}#=%=#bqzic99@gmail.com
+Author{4}{Affiliation}#=%=#PrincetonUniversity
+Author{5}{Firstname}#=%=#Zhixu
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#zhixuli
+Author{5}{Email}#=%=#zhixuli@fudan.edu.cn
+Author{5}{Affiliation}#=%=#Fudan University
+Author{6}{Firstname}#=%=#Jianfeng
+Author{6}{Lastname}#=%=#Qu
+Author{6}{Username}#=%=#jianfeng
+Author{6}{Email}#=%=#jfqu@suda.edu.cn
+Author{6}{Affiliation}#=%=#Soochow University
+Author{7}{Firstname}#=%=#Jie
+Author{7}{Lastname}#=%=#Zhou
+Author{7}{Username}#=%=#jerryitp
+Author{7}{Email}#=%=#withtomzhou@tencent.com
+Author{7}{Affiliation}#=%=#Tencent Inc.
+
+==========
+èéáğö

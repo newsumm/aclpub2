@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Unsupervised Opinion Summarization Using Approximate Geodesics
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Somnath Basu Roy Chowdhury
+JobTitle#==#
+Organization#==#UNC Chapel Hill, 232 S Columbia St, Chapel Hill, NC 27514
+Abstract#==#Opinion summarization is the task of creating summaries capturing popular opinions from user reviews.
+In this paper, we introduce Geodesic Summarizer (GeoSumm), a novel system to perform unsupervised extractive opinion summarization.  GeoSumm consists of an encoder-decoder based representation learning model that generates topical representations of texts. These representations capture the underlying semantics of the text as a distribution over learnable latent units. GeoSumm generates these topical representations by performing dictionary learning over pre-trained text representations at multiple layers of the decoder. We then use these topical representations to quantify the importance of review sentences using a novel approximate geodesic distance-based scoring mechanism. We use the importance scores to identify popular opinions in order to compose general and aspect-specific summaries. Our proposed model, GeoSumm, achieves strong performance on three opinion summarization datasets. We perform additional experiments to analyze the functioning of our model and showcase the generalization ability of GeoSumm across different domains.
+Author{1}{Firstname}#=%=#Somnath
+Author{1}{Lastname}#=%=#Basu Roy Chowdhury
+Author{1}{Username}#=%=#somnathbrc
+Author{1}{Email}#=%=#somnath@cs.unc.edu
+Author{1}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{2}{Firstname}#=%=#Nicholas
+Author{2}{Lastname}#=%=#Monath
+Author{2}{Username}#=%=#nmonath
+Author{2}{Email}#=%=#nmonath@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Kumar
+Author{3}{Lastname}#=%=#Dubey
+Author{3}{Username}#=%=#avinava
+Author{3}{Email}#=%=#avinava.dubey@gmail.com
+Author{3}{Affiliation}#=%=#Google Research
+Author{4}{Firstname}#=%=#Amr
+Author{4}{Lastname}#=%=#Ahmed
+Author{4}{Username}#=%=#amrahmed
+Author{4}{Email}#=%=#amra@google.com
+Author{4}{Affiliation}#=%=#Research Scientist, Google Research
+Author{5}{Firstname}#=%=#Snigdha
+Author{5}{Lastname}#=%=#Chaturvedi
+Author{5}{Username}#=%=#snigdha
+Author{5}{Email}#=%=#snigdhac@gmail.com
+Author{5}{Affiliation}#=%=#University of North Carolina, Chapel Hill
+
+==========
+èéáğö

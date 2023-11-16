@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Analyzing Multi-Sentence Aggregation in Abstractive Summarization via the Shapley Value
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Jingyi He
+JobTitle#==#
+Organization#==#
+Abstract#==#Abstractive summarization systems aim to write concise summaries capturing the most essential information of the input document in their own words. One of the ways to achieve this is to gather and combine multiple pieces of information from the source document, a process we call aggregation. Despite its importance, the extent to which both reference summaries in benchmark datasets and system-generated summaries require aggregation is yet unknown. In this work, we propose AggSHAP, a measure of the degree of aggregation in a summary sentence. We show that AggSHAP distinguishes multi-sentence aggregation from single-sentence extraction or paraphrasing through automatic and human evaluations. We find that few reference or model-generated summary sentences have a high degree of aggregation measured by the proposed metric. We also demonstrate negative correlations between AggSHAP and other quality scores of system summaries. These findings suggest the need to develop new tasks and datasets to encourage multi-sentence aggregation in summarization.
+Author{1}{Firstname}#=%=#Jingyi
+Author{1}{Lastname}#=%=#He
+Author{1}{Username}#=%=#kyliehe616
+Author{1}{Email}#=%=#jingyi.he@mail.mcgill.ca
+Author{1}{Affiliation}#=%=#McGill University
+Author{2}{Firstname}#=%=#Meng
+Author{2}{Lastname}#=%=#Cao
+Author{2}{Username}#=%=#caden
+Author{2}{Email}#=%=#meng.cao@mail.mcgill.ca
+Author{2}{Affiliation}#=%=#McGill University
+Author{3}{Firstname}#=%=#Jackie Chi Kit
+Author{3}{Lastname}#=%=#Cheung
+Author{3}{Username}#=%=#jcheung
+Author{3}{Email}#=%=#jcheung@cs.mcgill.ca
+Author{3}{Affiliation}#=%=#Mila / McGill University
+
+==========
+èéáğö

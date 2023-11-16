@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Supervising the Centroid Baseline for Extractive Multi-Document Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Simão Gonçalves
+JobTitle#==#
+Organization#==#
+Abstract#==#The centroid method is a simple approach for extractive multi-document summarization and many improvements to its pipeline have been proposed. We further refine it by adding a beam search process to the sentence selection and also a centroid estimation attention model that leads to improved results. We demonstrate this in several multi-document summarization datasets, including in a multilingual scenario.
+Author{1}{Firstname}#=%=#Simão
+Author{1}{Lastname}#=%=#Gonçalves
+Author{1}{Email}#=%=#simao.goncalves@priberam.pt
+Author{1}{Affiliation}#=%=#Priberam
+Author{2}{Firstname}#=%=#Gonçalo
+Author{2}{Lastname}#=%=#Correia
+Author{2}{Username}#=%=#goncalomcorreia
+Author{2}{Email}#=%=#goncalommac@gmail.com
+Author{2}{Affiliation}#=%=#Priberam
+Author{3}{Firstname}#=%=#Diogo
+Author{3}{Lastname}#=%=#Pernes
+Author{3}{Username}#=%=#dpernes
+Author{3}{Email}#=%=#diogo.pernes@priberam.pt
+Author{3}{Affiliation}#=%=#Priberam; University of Porto
+Author{4}{Firstname}#=%=#Afonso
+Author{4}{Lastname}#=%=#Mendes
+Author{4}{Username}#=%=#afonsoamendes
+Author{4}{Email}#=%=#amm@priberam.pt
+Author{4}{Affiliation}#=%=#Priberam Informática, SA.
+
+==========
+èéáğö

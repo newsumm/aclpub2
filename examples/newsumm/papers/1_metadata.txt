@@ -1,0 +1,56 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Is ChatGPT a Good NLG Evaluator? A Preliminary Study
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jiaan Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Recently, the emergence of ChatGPT has attracted wide attention from the computational linguistics community. Many prior studies have shown that ChatGPT achieves remarkable performance on various NLP tasks in terms of automatic evaluation metrics. However, the ability of ChatGPT to serve as an evaluation metric is still underexplored. Considering assessing the quality of natural language generation (NLG) models is an arduous task and NLG metrics notoriously show their poor correlation with human judgments, we wonder whether ChatGPT is a good NLG evaluation metric. In this report, we provide a preliminary meta-evaluation on ChatGPT to show its reliability as an NLG metric. In detail, we regard ChatGPT as a human evaluator and give task-specific (e.g., summarization) and aspect-specific (e.g., relevance) instruction to prompt ChatGPT to evaluate the generated results of NLG models. We conduct experiments on five NLG meta-evaluation datasets (including summarization, story generation and data-to-text tasks). Experimental results show that compared with previous automatic metrics, ChatGPT achieves state-of-the-art or competitive correlation with human judgments in most cases. In addition, we find that the effectiveness of the ChatGPT evaluator might be influenced by the creation method of the meta-evaluation datasets. For the meta-evaluation datasets which are created greatly depending on the reference and thus are biased, the ChatGPT evaluator might lose its effectiveness. We hope our preliminary study could prompt the emergence of a general-purposed reliable NLG metric.
+Author{1}{Firstname}#=%=#Jiaan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#krystal4n
+Author{1}{Email}#=%=#jawang.nlp@gmail.com
+Author{1}{Affiliation}#=%=#School of Computer Science and Technology, Soochow University, Suzhou, China
+Author{2}{Firstname}#=%=#Yunlong
+Author{2}{Lastname}#=%=#Liang
+Author{2}{Username}#=%=#yunlongliang
+Author{2}{Email}#=%=#yunlonliang@gmail.com
+Author{2}{Affiliation}#=%=#Beijing Jiaotong University
+Author{3}{Firstname}#=%=#Fandong
+Author{3}{Lastname}#=%=#Meng
+Author{3}{Username}#=%=#mengfandong
+Author{3}{Email}#=%=#fandongmeng@tencent.com
+Author{3}{Affiliation}#=%=#WeChat AI, Tencent
+Author{4}{Firstname}#=%=#Zengkui
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Username}#=%=#zengksun
+Author{4}{Email}#=%=#acerkoo747@gmail.com
+Author{4}{Affiliation}#=%=#Beijing Jiaotong university
+Author{5}{Firstname}#=%=#Haoxiang
+Author{5}{Lastname}#=%=#Shi
+Author{5}{Username}#=%=#a1007081080
+Author{5}{Email}#=%=#hollis.shi@toki.waseda.jp
+Author{5}{Affiliation}#=%=#Waseda University
+Author{6}{Firstname}#=%=#Zhixu
+Author{6}{Lastname}#=%=#Li
+Author{6}{Username}#=%=#zhixuli
+Author{6}{Email}#=%=#zhixuli@fudan.edu.cn
+Author{6}{Affiliation}#=%=#Fudan University
+Author{7}{Firstname}#=%=#Jinan
+Author{7}{Lastname}#=%=#Xu
+Author{7}{Username}#=%=#jaxu
+Author{7}{Email}#=%=#jaxu@bjtu.edu.cn
+Author{7}{Affiliation}#=%=#Beijing Jiaotong University
+Author{8}{Firstname}#=%=#Jianfeng
+Author{8}{Lastname}#=%=#Qu
+Author{8}{Username}#=%=#jianfeng
+Author{8}{Email}#=%=#jfqu@suda.edu.cn
+Author{8}{Affiliation}#=%=#Soochow University
+Author{9}{Firstname}#=%=#Jie
+Author{9}{Lastname}#=%=#Zhou
+Author{9}{Username}#=%=#jerryitp
+Author{9}{Email}#=%=#withtomzhou@tencent.com
+Author{9}{Affiliation}#=%=#Tencent Inc.
+
+==========
+èéáğö

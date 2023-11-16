@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#DebateKG – Automatic Policy Debate Case Creation with Semantic Knowledge Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Allen Roush
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent work within the Argument Mining community has shown the applicability of Natural Language Processing systems for solving problems found within competitive debate. One of the most important tasks within competitive debate is for debaters to create high quality debate cases. We show that effective debate cases can be constructed using constrained shortest path traversals on Argumentative Semantic Knowledge Graphs. We study this potential in the context of a type of American Competitive Debate, called "Policy Debate", which already has a large scale dataset targeting it called "DebateSum". We significantly improve upon DebateSum by introducing 53180 new examples, as well as further useful metadata for every example, to the dataset. We leverage the txtai semantic search and knowledge graph toolchain to produce and contribute 9 semantic knowledge graphs built on this dataset. We create a unique method for evaluating which knowledge graphs are better in the context of producing policy debate cases. A demo which automatically generates debate cases, along with all other code and the Knowledge Graphs, are open-sourced and made available to the public here: https://huggingface.co/spaces/Hellisotherpeople/DebateKG
+Author{1}{Firstname}#=%=#Allen
+Author{1}{Lastname}#=%=#Roush
+Author{1}{Username}#=%=#der_einzige
+Author{1}{Email}#=%=#gedboy2112@gmail.com
+Author{1}{Affiliation}#=%=#University of Oregon
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Mezzetti
+Author{2}{Email}#=%=#david.mezzetti@neuml.com
+Author{2}{Affiliation}#=%=#NeuML
+
+==========
+èéáğö

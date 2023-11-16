@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Extract, Select and Rewrite: A Modular Sentence Summarization Method
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Shuo Guan
+JobTitle#==#
+Organization#==#
+Abstract#==#A modular approach has the advantage of being compositional and controllable, comparing to most end-to-end models.
+  In this paper we propose Extract-Select-Rewrite (ESR), a three-phase abstractive sentence summarization method.
+  We decompose summarization into three stages:
+  (i) knowledge extraction, where we extract relation triples from the text using off-the-shelf tools;
+  (ii) content selection, where a subset of triples are selected;
+  and (iii) rewriting, where the selected triple are realized into natural language.
+  Our results demonstrates that ESR is competitive with the best end-to-end models while being more faithful. %than these baseline models.
+  Being modular, ESR's modules can be trained on separate data which is beneficial in low-resource settings and enhancing the style controllability on text generation.
+Author{1}{Firstname}#=%=#Shuo
+Author{1}{Lastname}#=%=#Guan
+Author{1}{Username}#=%=#seanguan
+Author{1}{Email}#=%=#shuo.guan@cs.nyu.edu
+Author{1}{Affiliation}#=%=#UBS
+Author{2}{Firstname}#=%=#Vishakh
+Author{2}{Lastname}#=%=#Padmakumar
+Author{2}{Username}#=%=#vishakhpk
+Author{2}{Email}#=%=#vp1271@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+
+==========
+èéáğö

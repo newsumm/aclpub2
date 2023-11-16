@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Generating Extractive and Abstractive Summaries in Parallel from Scientific Articles Incorporating Citing Statements
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Sudipta Singha Roy
+JobTitle#==#
+Organization#==#The University of Western Ontario, London, ON, Canada, N6A 5B7
+Abstract#==#Summarization of scientific articles often overlooks insights from citing papers, focusing solely on the document's content. To incorporate citation contexts, we develop a model to summarize a scientific document using the information in the source and citing documents. It concurrently generates abstractive and extractive summaries, each enhancing the other. The extractive summarizer utilizes a blend of heterogeneous graph-based neural networks and graph attention networks, while the abstractive summarizer employs an autoregressive decoder. These modules exchange control signals through the loss function, ensuring the creation of high-quality summaries in both styles.
+Author{1}{Firstname}#=%=#Sudipta
+Author{1}{Lastname}#=%=#Singha Roy
+Author{1}{Username}#=%=#ssinghar
+Author{1}{Email}#=%=#ssinghar@uwo.ca
+Author{1}{Affiliation}#=%=#University of Western Ontario
+Author{2}{Firstname}#=%=#Robert E.
+Author{2}{Lastname}#=%=#Mercer
+Author{2}{Username}#=%=#robertmercer
+Author{2}{Email}#=%=#mercer@csd.uwo.ca
+Author{2}{Affiliation}#=%=#The University of Western Ontario
+
+==========
+èéáğö
