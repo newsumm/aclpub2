@@ -1,5 +1,5 @@
 
-- title: Morning Session 1
+- title: Morning Session I
   start_time: 2023-12-06 08:50:00
   end_time: 2023-12-06 10:30:00
   subsessions:
@@ -7,44 +7,44 @@
       start_time: 2023-12-06 09:00:00
       title: Opening Remarks
       location: West Ballroom 2
-      
+
     - end_time: 2023-12-06 09:45:00
       start_time: 2023-12-06 09:00:00
-      title: Keynote Speaker (Kathleen McKeown, Columbia University)
+      title: Keynote I (Kathleen McKeown, Columbia University)
       location: West Ballroom 2
     - end_time: 2023-12-06 10:30:00
       start_time: 2023-12-06 09:45:00
-      title: Keynote Speaker (Jackie Cheung, McGill University)
+      title: Keynote II (Jackie Cheung, McGill University)
       location: West Ballroom 2
 
 - end_time: 2023-12-06 10:30:00
   start_time: 2023-12-06 11:00:00
   title: Coffee Break
 
-- title: Morning Session 2
+- title: Morning Session II
   start_time: 2023-12-06 11:00:00
   end_time: 2023-12-06 12:30:00
   subsessions:
     - end_time: 2023-12-06 11:45:00
       start_time: 2023-12-06 11:00:00
-      title: Keynote Speaker (Rui Zhang, Penn State University)
+      title: Keynote III (Rui Zhang, Penn State University)
       location: West Ballroom 2
     - end_time: 2023-12-06 12:30:00
       start_time: 2023-12-06 11:45:00
-      title: Keynote Speaker (Iz Beltagy, Allen Institute for AI)
+      title: Keynote IV (Iz Beltagy, Allen Institute for AI)
       location: West Ballroom 2
 
 - end_time: 2023-12-06 14:00:00
   start_time: 2023-12-06 12:30:00
   title: Lunch Break
 
-- title: Afternoon Session 1
+- title: Afternoon Session I
   start_time: 2023-12-06 14:00:00
   end_time: 2023-12-06 15:30:00
   subsessions:
     - end_time: 2023-12-06 14:45:00
       start_time: 2023-12-06 14:00:00
-      title: Keynote Speaker (Chenguang Zhu, Zoom)
+      title: Keynote V (Chenguang Zhu, Zoom)
       location: West Ballroom 2
     - end_time: 2023-12-06 15:30:00
       start_time: 2023-12-06 14:45:00
@@ -55,6 +55,6 @@
   start_time: 2023-12-06 15:30:00
   title: Coffee Break
 
-- title: Afternoon Session 2 - Poster Session (Workshop papers and Findings papers)
+- title: Afternoon Session II - Poster Session (Workshop papers and Findings papers)
   start_time: 2023-12-06 17:30:00
   end_time: 2023-12-06 16:00:00
