@@ -1,387 +1,455 @@
 - entries:
-  - first_name: Dilek
-    institution: Amazon
-    last_name: Hakkani-Tur
-  - first_name: Annie
-    institution: Google
-    last_name: Louis
-  - first_name: Mikio
-    institution: Honda Research Institute
-    last_name: Nakano
-  - first_name: Rebecca
-    institution: Penn State University
-    last_name: Passonneau
-    middle_name: J.
-  - first_name: Gabriel
-    institution: KTH
-    last_name: Skantze
-  - first_name: Manfred
-    institution: "Universit\xE4t Potsdam"
-    last_name: Stede
-  - first_name: David
-    institution: University of Southern California
-    last_name: Traum
-  - first_name: Koichiro
-    institution: Nara Institute of Science and Technology
-    last_name: Yoshino
-  role: Senior Program Committee
-- entries:
-  - first_name: Sean
-    institution: Microsoft Research, United States
-    last_name: Andrist
-  - first_name: Masahiro
-    institution: Kyoto Institute of Technology, Japan
-    last_name: Araki
-  - first_name: Ron
-    institution: USC Institute for Creative Technologies, United States
-    last_name: Artstein
-  - first_name: Yoav
-    institution: Cornell University, United States
-    last_name: Artzi
-  - first_name: Timo
-    institution: "Universit\xE4t Hamburg, Germany"
-    last_name: Baumann
-  - first_name: Frederic
-    institution: Aix Marseille Universite - LIS/CNRS, France
-    last_name: Bechet
-  - first_name: Steve
-    institution: Aculab plc, United Kingdom
-    last_name: Beet
-  - first_name: Jose
-    institution: "Universit\xE0t Polit\xE8cnica de Val\xE8ncia, Spain"
-    last_name: Benedi
-    middle_name: Miguel
-  - first_name: Luciana
-    institution: Universidad Nacional de Cordoba, Argentina
-    last_name: Benotti
-  - first_name: Yonatan
-    institution: Carnegie Mellon University, United States
-    last_name: Bisk
-  - first_name: Nate
-    institution: Cerence, United States
-    last_name: Blaylock
-  - first_name: Dan
-    institution: Microsoft Research, United States
-    last_name: Bohus
-  - first_name: Johan
-    institution: KTH, Sweden
-    last_name: Boye
-  - first_name: "Chlo\xE9"
-    institution: IRIT - CNRS, France
-    last_name: Braud
-  - first_name: Hendrik
-    institution: Bielefeld University, Germany
-    last_name: Buschmeier
-  - first_name: Andrew
-    institution: University of Cambridge, United Kingdom
-    last_name: Caines
-  - first_name: Christophe
-    institution: "Universit\xE9 de Lorraine, CNRS, LORIA, France"
-    last_name: Cerisara
-  - first_name: Senthil
-    institution: Microsoft, United States
-    last_name: Chandramohan
-  - first_name: Lin
-    institution: Head of AI, Cambia Health Solutions, United States
-    last_name: Chen
-  - first_name: Paul
-    institution: Facebook, United States
-    last_name: Crook
-  - first_name: Heriberto
-    institution: University of Lincoln, United Kingdom
-    last_name: Cuayahuitl
-  - first_name: Nina
-    institution: University of Hull, United Kingdom
-    last_name: Dethlefs
-  - first_name: David
-    institution: University of Southern California, United States
-    last_name: DeVault
-  - first_name: Barbara
-    institution: University of Illinois at Chicago, United States
-    last_name: Eugenio
-    middle_name: Di
-  - first_name: Jens
-    institution: KTH Speech, Music and Hearing, Sweden
-    last_name: Edlund
-  - first_name: Maxine
-    institution: Carnegie Mellon University, United States
-    last_name: Eskenazi
-  - first_name: Keelan
-    institution: Educational Testing Service, United States
-    last_name: Evanini
-  - first_name: Mauro
-    institution: Fondazione Ugo Bordoni, Italy
-    last_name: Falcone
-  - first_name: Michel
-    institution: Microsoft Research, United States
-    last_name: Galley
-  - first_name: Milica
-    institution: Heinrich Heine University Duesseldorf, Germany
-    last_name: Gasic
-  - first_name: Kallirroi
-    institution: University of Southern California, ICT, United States
-    last_name: Georgila
-  - first_name: Alborz
-    institution: Facebook AI, United States
-    last_name: Geramifard
-  - first_name: Debanjan
-    institution: Educational Testing Service, United States
-    last_name: Ghosh
-  - first_name: Jonathan
-    institution: "Universit\xE9 Paris-Diderot (Paris 7), France"
-    last_name: Ginzburg
-  - first_name: Joakim
-    institution: KTH, Sweden
-    last_name: Gustafson
-  - first_name: Ivan
-    institution: "Technische Universit\xE4t Darmstadt, Germany"
-    last_name: Habernal
-  - first_name: Helen
-    institution: Heriot-Watt University, United Kingdom
-    last_name: Hastie
-  - first_name: Michael
-    institution: Heinrich Heine University, Germany
-    last_name: Heck
-  - first_name: Behnam
-    institution: Amazon, United States
-    last_name: Hedayatnia
-  - first_name: Ryuichiro
-    institution: NTT Media Intelligence Labs., Japan
-    last_name: Higashinaka
-  - first_name: Takuya
-    institution: NEC Central Research Laboratories, Japan
-    last_name: Hiraoka
-  - first_name: Thomas
-    institution: University of Rochester, United States
-    last_name: Howard
-  - first_name: David
-    institution: Heriot-Watt University, United Kingdom
-    last_name: Howcroft
-    middle_name: M.
-  - first_name: Ruihong
-    institution: Texas A&M University, United States
-    last_name: Huang
-  - first_name: Michimasa
-    institution: The University of Electro-Communications, Japan
-    last_name: Inaba
-  - first_name: Koji
-    institution: Kyoto University, Japan
-    last_name: Inoue
-  - first_name: Filip
-    institution: Apple Inc., United Kingdom
-    last_name: Jurcicek
-  - first_name: Tatsuya
-    institution: Kyoto University, Japan
-    last_name: Kawahara
-  - first_name: Chris
-    institution: Columbia University, United States
-    last_name: Kedzie
-  - first_name: Simon
-    institution: Toshiba Research Europe Ltd, United Kingdom
-    last_name: Keizer
-  - first_name: Chandra
-    institution: Senior AI Research Scientist, Uber AI, United States
-    last_name: Khatri
-  - first_name: Alexander
-    institution: Saarland University, Germany
-    last_name: Koller
-  - first_name: Kazunori
-    institution: Osaka University, Japan
-    last_name: Komatani
-  - first_name: Ivana
-    institution: DFKI, Germany
-    last_name: Kruijff-Korbayova
-  - first_name: Kornel
-    institution: Carnegie Mellon University, United States
-    last_name: Laskowski
-  - first_name: Fabrice
-    institution: Avignon Univ., France
-    last_name: Lefevre
-  - first_name: Oliver
-    institution: Heriot-Watt University, United Kingdom
-    last_name: Lemon
-  - first_name: Junyi
-    institution: University of Texas at Austin, United States
-    last_name: Li
-    middle_name: Jessy
-  - first_name: Pierre
-    institution: Norwegian Computing Centre, Norway
-    last_name: Lison
-  - first_name: Bing
-    institution: Facebook, United States
+  - dblp_id: ''
+    emails: nallu002@ucr.edu
+    first_name: Niyathi
+    google_scholar_id: ''
+    homepage: ''
+    institution: University of California, Riverside
+    last_name: Allu
+    name: Niyathi Allu
+    orcid: ''
+    semantic_scholar_id: ''
+    username: nallu002
+  - dblp_id: ''
+    emails: k.arumae@knights.ucf.edu
+    first_name: Kristjan
+    google_scholar_id: ''
+    homepage: ''
+    institution: University of Central Florida
+    last_name: Arumae
+    name: Kristjan Arumae
+    orcid: ''
+    semantic_scholar_id: ''
+    username: k.arumae
+  - dblp_id: ''
+    emails: susana.bautista@ufv.es
+    first_name: Susana
+    google_scholar_id: ''
+    homepage: ''
+    institution: Universidad Francisco de Vitoria
+    last_name: Bautista
+    name: Susana Bautista
+    orcid: ''
+    semantic_scholar_id: n/a
+    username: susana
+  - dblp_id: ''
+    emails: florian.boudin@univ-nantes.fr
+    first_name: Florian
+    google_scholar_id: Vk68rbkAAAAJ
+    homepage: ''
+    institution: Nantes University
+    last_name: Boudin
+    name: Florian Boudin
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Florian-Boudin/2346578
+    username: boudin-f
+  - dblp_id: ''
+    emails: kenchanhp@gmail.com
+    first_name: Hou Pong
+    google_scholar_id: HCljxf0AAAAJ
+    homepage: ''
+    institution: University of Macau
+    last_name: Chan
+    name: Hou Pong Chan
+    orcid: https://orcid.org/0000-0001-9207-4178
+    semantic_scholar_id: https://www.semanticscholar.org/author/Hou-Pong-Chan/23181435
+    username: kenchan0226
+  - dblp_id: ''
+    emails: dagan@cs.biu.ac.il
+    first_name: Ido
+    google_scholar_id: ''
+    homepage: ''
+    institution: Bar-Ilan University
+    last_name: Dagan
+    name: Ido Dagan
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Ido-Dagan/7465342
+    username: dagan
+  - dblp_id: ''
+    emails: felice.dellorletta@ilc.cnr.it
+    first_name: Felice
+    google_scholar_id: https://scholar.google.com/citations?user=uhInFTQAAAAJ&hl=it
+    homepage: ''
+    institution: ItaliaNLP Lab @ Institute for Computational Linguistics "Antonio
+      Zampolli", ILC - CNR
+    last_name: Dell'orletta
+    name: Felice Dell'orletta
+    orcid: https://orcid.org/0000-0003-3454-9387
+    semantic_scholar_id: https://www.semanticscholar.org/author/Felice-Dell'Orletta/2187131
+    username: felice
+  - dblp_id: ''
+    emails: yuntian@uwaterloo.ca
+    first_name: Yuntian
+    google_scholar_id: https://scholar.google.com/citations?user=tk0e5lYAAAAJ&hl=en
+    homepage: ''
+    institution: Allen Institute for AI
+    last_name: Deng
+    name: Yuntian Deng
+    orcid: https://orcid.org/0000-0001-5280-8974
+    semantic_scholar_id: https://www.semanticscholar.org/author/Yuntian-Deng/2505751
+    username: cloudyclouds
+  - dblp_id: ''
+    emails: r.j.evans@wlv.ac.uk
+    first_name: Richard
+    google_scholar_id: ''
+    homepage: ''
+    institution: University of Wolverhampton
+    last_name: Evans
+    name: Richard Evans
+    orcid: ''
+    semantic_scholar_id: n/a (denotes a large cluster of authors with my name)
+    username: r.j.evans
+  - dblp_id: ''
+    emails: afabbri@salesforce.com
+    first_name: Alex
+    google_scholar_id: GgfJdhwAAAAJ
+    homepage: ''
+    institution: Salesforce AI Research
+    last_name: Fabbri
+    name: Alex Fabbri
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Alexander-Richard-Fabbri/22281632
+    username: alexfabbri
+  - dblp_id: ''
+    emails: tobias_falke@web.de
+    first_name: Tobias
+    google_scholar_id: https://scholar.google.com/citations?user=do29smUAAAAJ&hl=en
+    homepage: ''
+    institution: Amazon Alexa AI
+    last_name: Falke
+    name: Tobias Falke
+    orcid: https://orcid.org/0000-0002-9525-0330
+    semantic_scholar_id: https://www.semanticscholar.org/author/Tobias-Falke/40390481
+    username: falke
+  - dblp_id: ''
+    emails: herbert.he@gmail.com
+    first_name: Pengcheng
+    google_scholar_id: https://scholar.google.com/citations?user=TS1RoxAAAAAJ&hl=en
+    homepage: ''
+    institution: Microsoft
+    last_name: He
+    name: Pengcheng He
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Pengcheng-He/50462546
+    username: hepc
+  - dblp_id: ''
+    emails: hu.zhe@northeastern.edu
+    first_name: Zhe
+    google_scholar_id: oV8sqb0AAAAJ&hl
+    homepage: ''
+    institution: Baidu
+    last_name: Hu
+    name: Zhe Hu
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Zhe-Hu/144869276
+    username: zhehuderek
+  - dblp_id: ''
+    emails: xinyuhua1994@gmail.com
+    first_name: Xinyu
+    google_scholar_id: ''
+    homepage: ''
+    institution: Bloomberg
+    last_name: Hua
+    name: Xinyu Hua
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Xinyu-Hua/7156360
+    username: xinyuhua
+  - dblp_id: ''
+    emails: huberpatrick91@gmail.com
+    first_name: Patrick
+    google_scholar_id: https://scholar.google.ca/citations?user=kYTPmScAAAAJ&hl=en
+    homepage: ''
+    institution: University of British Columbia
+    last_name: Huber
+    name: Patrick Huber
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Patrick-Huber/144142516
+    username: huberpatrick
+  - dblp_id: ''
+    emails: masoud@cis.lmu.de
+    first_name: Masoud
+    google_scholar_id: https://scholar.google.com/citations?user=9nHOYB8AAAAJ
+    homepage: ''
+    institution: Center for Information and Speech Processing, Ludwig Maximilian University
+      of Munich
+    last_name: Jalili Sabet
+    name: Masoud Jalili Sabet
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Masoud-Jalili-Sabet/33014152
+    username: katerpillar
+  - dblp_id: ''
+    emails: jingjiang@smu.edu.sg
+    first_name: Jing
+    google_scholar_id: hVTK2YwAAAAJ
+    homepage: ''
+    institution: Singapore Management University
+    last_name: Jiang
+    name: Jing Jiang
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Jing-Jiang/144924150
+    username: jingjiang
+  - dblp_id: ''
+    emails: wojciech.kryscinski@salesforce.com
+    first_name: Wojciech
+    google_scholar_id: ''
+    homepage: ''
+    institution: Salesforce Research
+    last_name: Kryscinski
+    name: Wojciech Kryscinski
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Wojciech-Kryscinski/51232396
+    username: wkryscinski
+  - dblp_id: ''
+    emails: yaliu10@microsoft.com
+    first_name: Yang
+    google_scholar_id: ''
+    homepage: ''
+    institution: Microsoft
     last_name: Liu
-  - first_name: Eduardo
-    institution: University of Zaragoza, Spain
-    last_name: Solano
-    middle_name: Lleida
-  - first_name: Ramon
-    institution: University of Granada, Spain
-    last_name: Lopez-Cozar
-  - first_name: Nurul
-    institution: Heinrich Heine University, Germany
-    last_name: Lubis
-  - first_name: Ross
-    institution: Semio, United States
-    last_name: Mead
-  - first_name: Teruhisa
-    institution: Honda Research Institute USA, United States
-    last_name: Misu
-  - first_name: Seungwhan
-    institution: Facebook Conversational AI, United States
-    last_name: Moon
-  - first_name: Raymond
-    institution: University of Texas at Austin, United States
-    last_name: Mooney
-  - first_name: Elena
-    institution: University of Liverpool, United Kingdom
-    last_name: Musi
-  - first_name: Satoshi
-    institution: Nara Institute of Science and Technology and RIKEN AIP Center, Japan
-    last_name: Nakamura
-  - first_name: Vincent
-    institution: University of Texas at Dallas, United States
-    last_name: Ng
-  - first_name: Douglas
-    institution: INRS-EMT (Univ. of Quebec), Canada
-    last_name: O'Shaughnessy
-  - first_name: Alexandros
-    institution: Uber AI, United States
-    last_name: Papangelis
-  - first_name: Cecile
-    institution: CSIRO, Australia
-    last_name: Paris
-  - first_name: Nanyun
-    institution: University of Southern California, United States
-    last_name: Peng
-  - first_name: Laura
-    institution: School of Informatics, University of Edinburgh, United Kingdom
-    last_name: Perez-Beltrachini
-  - first_name: Paul
-    institution: The Open University, United Kingdom
-    last_name: Piwek
-  - first_name: Heather
-    institution: Mount Holyoke College, United States
-    last_name: Pon-Barry
-  - first_name: Andrei
-    institution: HEIG-VD / HES-SO, Switzerland
-    last_name: Popescu-Belis
-  - first_name: Abhinav
-    institution: Google Research, United States
-    last_name: Rastogi
-  - first_name: Ehud
-    institution: University of Aberdeen, United Kingdom
-    last_name: Reiter
-  - first_name: Norbert
-    institution: DFKI GmbH, Germany
-    last_name: Reithinger
-  - first_name: Antonio
-    institution: Tufts University, United States
-    last_name: Roque
-  - first_name: Carolyn
-    institution: Carnegie Mellon University, United States
-    last_name: Rose
-  - first_name: Clayton
-    institution: Infoscitex Corp., United States
-    last_name: Rothwell
-  - first_name: Sakriani
-    institution: Nara Institute of Science and Technology (NAIST) / RIKEN AIP, Japan
-    last_name: Sakti
-  - first_name: Ruhi
-    institution: Amazon, United States
-    last_name: Sarikaya
-  - first_name: David
-    institution: University of Potsdam, Germany
-    last_name: Schlangen
-  - first_name: Ethan
-    institution: Interactions LLC, United States
-    last_name: Selfridge
-  - first_name: Georg
-    institution: Intel Corp., Germany
-    last_name: Stemmer
-  - first_name: Matthew
-    institution: Rutgers University, United States
-    last_name: Stone
-  - first_name: Svetlana
-    institution: Toshiba Europe, United Kingdom
-    last_name: Stoyanchev
-  - first_name: Kristina
-    institution: Union College, United States
-    last_name: Striegnitz
-  - first_name: Pei-Hao
-    institution: PolyAI, United Kingdom
-    last_name: Su
-  - first_name: Hiroaki
-    institution: NTT Communication Science Labs., Japan
-    last_name: Sugiyama
-  - first_name: "Ant\xF3nio"
-    institution: DETI/IEETA, University of Aveiro, Portugal
-    last_name: Teixeira
-  - first_name: Takenobu
-    institution: Tokyo Institute of Technology, Japan
-    last_name: Tokunaga
-  - first_name: Bo-Hsiang
-    institution: University of Cambridge, United Kingdom
-    last_name: Tseng
-  - first_name: Gokhan
-    institution: Amazon Alexa AI, United States
-    last_name: Tur
-  - first_name: Stefan
-    institution: Mercedes-Benz AG, Germany
-    last_name: Ultes
-  - first_name: David
-    institution: Apple, United Kingdom
-    last_name: Vandyke
-  - first_name: Hsin-Min
-    institution: Academia Sinica, Taiwan
-    last_name: Wang
-  - first_name: Yi-Chia
-    institution: Uber AI, United States
-    last_name: Wang
-  - first_name: Nigel
-    institution: University of Texas at El Paso, United States
-    last_name: Ward
-  - first_name: Jason
-    institution: Apple, United States
-    last_name: Williams
-    middle_name: D
-  - first_name: Tom
-    institution: Colorado School of Mines, United States
-    last_name: Williams
-  - first_name: Yen-chen
-    institution: University of Cambridge, United Kingdom
-    last_name: Wu
-  - first_name: Steve
-    institution: Cambridge University, United Kingdom
-    last_name: Young
-  - first_name: Zhou
-    institution: University of California, Davis, United States
-    last_name: Yu
-  - first_name: Kai
-    institution: Shanghai Jiao Tong University, China
-    last_name: Yu
-  - first_name: Jian
-    institution: Dongguan University of Technology and Hong Kong University of Science
-      and Technology, China
-    last_name: ZHANG
-  role: Program Committee
-- entries:
-  - first_name: Zeyu
-    last_name: Dai
-  - first_name: Shrey
-    last_name: Desai
-  - first_name: Sanuj
+    name: Yang Liu
+    orcid: ''
+    semantic_scholar_id: '39798499'
+    username: pku7yang
+  - dblp_id: ''
+    emails: elloret@dlsi.ua.es
+    first_name: Elena
+    google_scholar_id: ''
+    homepage: ''
+    institution: University of Alicante
+    last_name: Lloret
+    name: Elena Lloret
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Elena-Lloret/1726968
+    username: elloret
+  - dblp_id: ''
+    emails: wencan@google.com
+    first_name: Wencan
+    google_scholar_id: ''
+    homepage: ''
+    institution: Google
+    last_name: Luo
+    name: Wencan Luo
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Wencan-Luo/3340164
+    username: wencan
+  - dblp_id: ''
+    emails: margot.mieskes@h-da.de
+    first_name: Margot
+    google_scholar_id: https://scholar.google.de/citations?user=NSHuWowAAAAJ
+    homepage: ''
+    institution: University of Applied Sciences, Darmstadt
+    last_name: Mieskes
+    name: Margot Mieskes
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Margot-Mieskes/2921990
+    username: mieskes
+  - dblp_id: ''
+    emails: nomoto@acm.org
+    first_name: Tadashi
+    google_scholar_id: https://scholar.google.com/citations?user=zBqLkLEAAAAJ&hl=en
+    homepage: ''
+    institution: National Institute of Japanese Literature
+    last_name: Nomoto
+    name: Tadashi Nomoto
+    orcid: https://orcid.org/0000-0002-3261-6403
+    semantic_scholar_id: https://www.semanticscholar.org/author/T.-Nomoto/2842296
+    username: nomoto
+  - dblp_id: ''
+    emails: okazaki@c.titech.ac.jp
+    first_name: Naoaki
+    google_scholar_id: ''
+    homepage: ''
+    institution: Tokyo Institute of Technology
+    last_name: Okazaki
+    name: Naoaki Okazaki
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Naoaki-Okazaki/1764004
+    username: okazaki
+  - dblp_id: ''
+    emails: oku@pi.titech.ac.jp
+    first_name: Manabu
+    google_scholar_id: https://scholar.google.com/citations?user=NpQMX_8AAAAJ&hl=ja
+    homepage: ''
+    institution: Tokyo Institute of Technology
+    last_name: Okumura
+    name: Manabu Okumura
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Okumura-Manabu/9460257
+    username: oku
+  - dblp_id: ''
+    emails: jessica.ouyang@utdallas.edu
+    first_name: Jessica
+    google_scholar_id: ''
+    homepage: ''
+    institution: University of Texas at Dallas
+    last_name: Ouyang
+    name: Jessica Ouyang
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Jessica-Ouyang/2112778
+    username: ouyangj
+  - dblp_id: ''
+    emails: maxime.peyrard@epfl.ch
+    first_name: Maxime
+    google_scholar_id: RFMdKLMAAAAJ&hl
+    homepage: ''
+    institution: EPFL
+    last_name: Peyrard
+    name: Maxime Peyrard
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Maxime-Peyrard/35512303
+    username: peyrardm
+  - dblp_id: ''
+    emails: simone@informatik.uni-mannheim.de
+    first_name: Simone Paolo
+    google_scholar_id: ''
+    homepage: ''
+    institution: University of Mannheim
+    last_name: Ponzetto
+    name: Simone Paolo Ponzetto
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Simone-Paolo-Ponzetto/1801255
+    username: ponzetto
+  - dblp_id: ''
+    emails: obspp18@gmail.com
+    first_name: Ori
+    google_scholar_id: s7djZnUAAAAJ
+    homepage: ''
+    institution: Amazon
+    last_name: Shapira
+    name: Ori Shapira
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Ori-Shapira/15392843
+    username: orishapira
+  - dblp_id: ''
+    emails: pshar053@ucr.edu
+    first_name: Priyanshu
+    google_scholar_id: ''
+    homepage: ''
+    institution: University of California, Riverside
     last_name: Sharma
-  - first_name: Wenlin
-    last_name: Yao
-  role: Secondary Reviewers
-- entries:
-  - first_name: Asli
-    institution: Microsoft Research, USA
-    last_name: Celikyilmaz
-  - first_name: Diane
-    institution: University of Pittsburgh, USA
-    last_name: Litman
-  - first_name: Gabriel
-    institution: KTH Royal Institute of Technology, Sweden
-    last_name: Skantze
-  role: Invited Speakers
+    name: Priyanshu Sharma
+    orcid: ''
+    semantic_scholar_id: ''
+    username: pshar053
+  - dblp_id: ''
+    emails: kqsong2014@gmail.com
+    first_name: Kaiqiang
+    google_scholar_id: https://scholar.google.com/citations?user=PHoJwakAAAAJ&hl=en
+    homepage: ''
+    institution: Tencent AI Lab
+    last_name: Song
+    name: Kaiqiang Song
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Kaiqiang-Song/50982080
+    username: kqsong
+  - dblp_id: ''
+    emails: soodfirst@gmail.com
+    first_name: Arpit
+    google_scholar_id: https://scholar.google.com/citations?user=HXgMXMcAAAAJ&hl=en
+    homepage: ''
+    institution: Meta Inc.
+    last_name: Sood
+    name: Arpit Sood
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Arpit-Sood/1887762
+    username: arpitsood
+  - dblp_id: ''
+    emails: juan-manuel.torres@univ-avignon.fr
+    first_name: Juan-Manuel
+    google_scholar_id: ''
+    homepage: ''
+    institution: LIA Avignon
+    last_name: Torres-Moreno
+    name: Juan-Manuel Torres-Moreno
+    orcid: ''
+    semantic_scholar_id: ''
+    username: juan-manuel.torres
+  - dblp_id: ''
+    emails: giulia.venturi@ilc.cnr.it
+    first_name: Giulia
+    google_scholar_id: https://scholar.google.com/citations?user=UdWNS-UAAAAJ&hl=it&oi=ao
+    homepage: ''
+    institution: Institute of Computational Linguistics "Antonio Zampolli" (ILC-CNR)
+    last_name: Venturi
+    name: Giulia Venturi
+    orcid: https://orcid.org/0000-0001-5849-0979
+    semantic_scholar_id: https://www.semanticscholar.org/author/Giulia-Venturi/35068913
+    username: giu.venturi
+  - dblp_id: ''
+    emails: esau.villatoro@idiap.ch
+    first_name: Esau
+    google_scholar_id: villatoroe
+    homepage: ''
+    institution: Idiap Research Institute
+    last_name: Villatoro-Tello
+    name: Esau
+    orcid: 0000-0002-1322-0358
+    semantic_scholar_id: https://www.semanticscholar.org/author/Esa%C3%BA-Villatoro-Tello/1398324221
+    username: villatoroe
+  - dblp_id: ''
+    emails: lzxing@cs.ubc.ca
+    first_name: Linzi
+    google_scholar_id: https://scholar.google.com/citations?authorid=CXghWHMAAAAJ&user=CXghWHMAAAAJ
+    homepage: ''
+    institution: University of British Columbia
+    last_name: Xing
+    name: Linzi Xing
+    orcid: n/a
+    semantic_scholar_id: https://www.semanticscholar.org/author/Linzi-Xing/15493820
+    username: linzixing
+  - dblp_id: ''
+    emails: xxu3@ed.ac.uk
+    first_name: Xinnuo
+    google_scholar_id: ''
+    homepage: ''
+    institution: University of Edinburgh
+    last_name: Xu
+    name: Xinnuo Xu
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Xinnuo-Xu/31501619
+    username: xinnuo
+  - dblp_id: ''
+    emails: jiacheng.xu@salesforce.com
+    first_name: Jiacheng
+    google_scholar_id: yfbcnfUAAAAJ
+    homepage: ''
+    institution: Salesforce AI Research
+    last_name: Xu
+    name: Jiacheng Xu
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Jiacheng-Xu/34837371
+    username: sharhoo
+  - dblp_id: ''
+    emails: haopeng@ifmlab.org
+    first_name: Haopeng
+    google_scholar_id: https://scholar.google.com/citations?user=DT_HlbYAAAAJ&hl=en
+    homepage: ''
+    institution: University of California, Davis
+    last_name: Zhang
+    name: Haopeng Zhang
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Haopeng-Zhang/2135688409
+    username: hz19e
+  - dblp_id: ''
+    emails: rmz5227@psu.edu
+    first_name: Rui
+    google_scholar_id: ''
+    homepage: ''
+    institution: Penn State University
+    last_name: Zhang
+    name: Rui Zhang
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Rui-Zhang/144142360
+    username: ryanzh
+  - dblp_id: ''
+    emails: mingz5@illinois.edu
+    first_name: Ming
+    google_scholar_id: https://scholar.google.com/citations?user=mnifqeUAAAAJ&hl=en
+    homepage: ''
+    institution: University of Illinois Urbana-Champaign
+    last_name: Zhong
+    name: Ming Zhong
+    orcid: ''
+    semantic_scholar_id: https://www.semanticscholar.org/author/Ming-Zhong/1606040932
+    username: mzhong
+  role: Program Committee

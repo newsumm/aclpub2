@@ -278,7 +278,7 @@ def get_papers():
                         })
                 sub_type = "Submission Type" if "Submission Type" in row else "Paper type"
                 paper = {
-                    "abstract": tex_escape(row["Abstract"]),
+                    "abstract": tex_escape(row["Summary"]),
                     "attributes": {
                         "paper_type": row[sub_type],
                         "presentation_type": "N/A",

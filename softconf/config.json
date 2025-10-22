@@ -1,8 +1,8 @@
 {
-"conf" : "CONFERENCENAMEe.g.acl2022",
-"track" : "TRACKNAMEe.g.demos",
-"username" : "YOURSOFTCONFUSERNAME",
-"password" : "YOURSOFTCONFPASSWORD",
-"service_program_committee" : "https://www.softconf.com/acl2022/demos/cgi-bin/scmd.cgi?scmd=webservice&token=REVIEWERWEBSERVICETOKEN",
-"service_papers" : "https://www.softconf.com/acl2022/demos/cgi-bin/scmd.cgi?scmd=webservice&token=SUBMISSIONSWEBSERVICETOKEN"
+"conf" : "emnlp2023",
+"track" : "newsumm2023",
+"username" : "yue_dong",
+"password" : "4234849Dy!",
+"service_program_committee" : "https://softconf.com/emnlp2023/newsumm2023/cgi-bin/scmd.cgi?scmd=webservice&token=4T-F5E5J4E4G7F9H3A2A2G5",
+"service_papers" : "https://softconf.com/emnlp2023/newsumm2023/cgi-bin/scmd.cgi?scmd=webservice&token=2T-B8A2D6C7H3E9D5G9J3A8"
 }

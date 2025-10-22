@@ -1,0 +1,332 @@
+"Username","Email","First Name","Last Name","Affiliation","Country Code","Country Name","Biography","Previous Affiliations (by domain)","Willing to Review","Semantic Scholar ID","Google Scholar ID","ORCID","COIs Entered on Global Profile","Highest Degree Earned","Year of Graduation","Backup Email","Affiliation Type","Review Frequency","Logged in?","Accessed Assignments","Number of Assignments","Number of Assignments Completed","Roles","Is a manager","Is a track manager",
+"alla-abdella","alla.abdella@ust.com","Alla","Abdella","UST","US","United States","","UST","Yes","94208019","efiypDoAAAAJ","0000-0003-3824-3051","2237262","PHD","2021","aabdella@usf.edu","Industry","First time reviewing","No","No Assignments","","","Author","No","No",
+"griffinadams","griffin.adams@columbia.edu","Griffin","Adams","Columbia University","US","United States","I am a CS PhD student and NLP researcher with a focus on clinical data.  After completing a masters in Computational Data Science at Carnegie Mellon's Language Technologies Institute (LTI), I worked at Flatiron Health where I developed and deployed algorithms to extract clinical information from unstructured oncology data at scale. I introduced deep learning to the company and architected a generalized model that improves the status quo of information extraction from large-scale longitudinal clinical notes. I hosted the first deep learning hackathon as well.  I recently completed my first year as a PhD student at Columbia under advisor Noemie Elhadad. My research lies at the intersection of NLP, deep learning, and clinical data.","columbia.edu
+flatiron.com
+cmu.edu
+microsoft.com
+amazon.com","Yes","https://www.semanticscholar.org/author/Griffin-Adams/49496422","ZxKRzugAAAAJ","https://orcid.org/ 0000-0003-2001-5675","46255971
+2763493
+1754680","PhD","2023","griff4692@gmail.com","PhD Student","First time reviewing","Yes","No Assignments","","","Author","No","No",
+"amrahmed","amra@google.com","Amr","Ahmed","Research Scientist, Google Research","US","United States","","","","","","","","","","","","","No","No Assignments","","","Author","No","No",
+"nallu002","nallu002@ucr.edu","Niyathi","Allu","University of California, Riverside","US","United States","","","","","","","","","","","","","Yes","13 Oct 2023 07:32:00","1","1","committee","No","No",
+"k.arumae","k.arumae@knights.ucf.edu","Kristjan","Arumae","University of Central Florida","US","United States","","","","","","","","","","","","","No","","2","0","committee","No","No",
+"somnathbrc","somnath@cs.unc.edu","Somnath","Basu Roy Chowdhury","University of North Carolina at Chapel Hill","US","United States","","unc.edu
+google.com
+microsoft.com
+apple.com","Yes","https://www.semanticscholar.org/author/Somnath-Basu-Roy-Chowdhury/31924645","xGbyrIUAAAAJ","","","Ph.D.","2025","","Academia","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"susana","susana.bautista@ufv.es","Susana","Bautista","Universidad Francisco de Vitoria","ES","Spain","","ucm.es","No","n/a","","","","","","","","Never","Yes","5 Oct 2023 23:03:56","2","2","committee","No","No",
+"boudin-f","florian.boudin@univ-nantes.fr","Florian","Boudin","Nantes University","FR","France","I am Associate Professor of Computer Science at the University of Nantes. My research lies within the field of Natural Language Processing (NLP) and Information Retrieval (IR). Currently, I'm doing research on indexing and understanding scientific documents.","univ-nantes.fr
+nii.ac.jp","Yes","https://www.semanticscholar.org/author/Florian-Boudin/2346578","Vk68rbkAAAAJ","","","Phd","2008","boudjinn@gmail.com","Academia","4 or  more events","Yes","29 Sep 2023 00:56:42","2","2","committee","No","No",
+"caden","meng.cao@mail.mcgill.ca","Meng","Cao","McGill University","CA","Canada","","mail.mcgill.ca","Yes","n/a","CvHeFv8AAAAJ&hl","","","Ph.D.","2024","c_meng@outlook.com","Academia","3 or fewer events","No","No Assignments","","","Author","No","No",
+"kenchan0226","kenchanhp@gmail.com","Hou Pong","Chan","University of Macau","MO","Macau","I am a visiting lecturer (Macao Fellow) at Department of Computer and Information Science in the University of Macau. My research interest includes text summarization, natural language processing, and reinforcement learning. I received my Ph.D. degree from The Chinese University of Hong Kong in 2020, supervised by Prof. Irwin King. In spring 2019, I worked with Prof. Lu Wang at Northeastern University as a visiting PhD student.","um.edu.mo
+cuhk.edu.hk
+neu.edu
+illinois.edu","Yes","https://www.semanticscholar.org/author/Hou-Pong-Chan/23181435","HCljxf0AAAAJ","https://orcid.org/0000-0001-9207-4178","","PhD","2020","kenchanhp@gmail.com","Academia","4 or  more events","Yes","5 Oct 2023 13:31:51","2","2","committee","No","No",
+"snigdha","snigdhac@gmail.com","Snigdha","Chaturvedi","University of North Carolina, Chapel Hill","US","United States","","unc.edu
+ucsc.edu
+seas.upenn.edu","Yes","https://www.semanticscholar.org/author/Snigdha-Chaturvedi/37202877","https://scholar.google.com/citations?user=gZD3EesAAAAJ&hl=en","","https://www.semanticscholar.org/author/Anvesh-Rao-Vijjini/51117195
+https://www.semanticscholar.org/author/Somnath-Basu-Roy-Chowdhury/31924645
+https://www.semanticscholar.org/author/Chao-Zhao/151480423
+https://www.semanticscholar.org/author/Faeze-Brahman/9252833
+https://www.semanticscholar.org/author/D.-Roth/144590225
+https://www.semanticscholar.org/author/Hal-Daum%C3%A9-III/1738680284","PhD","2016","snigdha@cs.unc.edu","Academia","4 or  more events","No","No Assignments","","","Author","No","No",
+"jcheung","jcheung@cs.mcgill.ca","Jackie Chi Kit","Cheung","Mila / McGill University","CA","Canada","Associate professor at McGill University and the Mila Quebec Institute for Artificial Intelligence.","cs.mcgill.ca
+borealisai.com
+elementai.com
+mila.quebec
+umontreal.ca
+microsoft.com","Yes","https://www.semanticscholar.org/author/Jackie-Chi-Kit-Cheung/3159752","","","","PhD","2015","cckitpw@gmail.com","Academia","4 or  more events","No","No Assignments","","","Author","No","No",
+"goncalomcorreia","goncalommac@gmail.com","Gonçalo","Correia","Priberam","PT","Portugal","","lx.it.pt
+tecnico.ulisboa.pt
+priberam.pt
+priberam.com","Yes","https://www.semanticscholar.org/author/Gonccalo-M.-Correia/146783606","https://scholar.google.pt/citations?user=0X9U8HYAAAAJ","","https://www.semanticscholar.org/author/Ben-Peters/49470779
+https://www.semanticscholar.org/author/Tsvetomila-Mihaylova/3442524
+https://www.semanticscholar.org/author/Erick-Rocha-Fonseca/31484318
+https://www.semanticscholar.org/author/Marcos-Vin%C3%ADcius-Treviso/145188499
+https://www.semanticscholar.org/author/Vlad-Niculae/2114966
+https://www.semanticscholar.org/author/Andr%C3%A9-F.-T.-Martins/145644643
+https://www.semanticscholar.org/author/W.-Aziz/2782694","PhD","2022","goncalo.correia@priberam.pt","Industry","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"dagan","dagan@cs.biu.ac.il","Ido","Dagan","Bar-Ilan University","IL","Israel","Ido Dagan is a Professor at the Department of Computer Science at Bar-Ilan University, Israel, the founder of the Natural Language Processing (NLP) Lab at Bar-Ilan, and a Fellow of the Association for Computational Linguistics (ACL). His interests are in applied semantic processing, focusing on textual inference, natural semantic representations, open representation, consolidation and summarization of multi-text information, and interactive text summarization. Dagan and colleagues initiated textual entailment recognition (RTE, aka NLI) as a generic empirical task. He was the President of the ACL in 2010 and served on its Executive Committee during 2008-2011. In that capacity, he led the establishment of the journal Transactions of the Association for Computational Linguistics, which became one of two premiere journals in NLP. Dagan received his B.A. summa cum laude and his Ph.D. (1992) in Computer Science from the Technion. He was a research fellow at the IBM Haifa Scientific Center (1991) and a Member of Technical Staff at AT&T Bell Laboratories (1992-1994). During 1998-2003 he was co-founder and CTO of FocusEngine and VP of Technology of LingoMotors. He is currently heading the Bar-Ilan University Data Science Institute.","cs.biu.ac.il
+biu.ac.il","Yes","https://www.semanticscholar.org/author/Ido-Dagan/7465342","","","","PhD","1992","ido.k.dagan@gmail.com","Academia","4 or  more events","Yes","7 Oct 2023 14:45:27","2","2","committee","No","No",
+"felice","felice.dellorletta@ilc.cnr.it","Felice","Dell'Orletta","ItaliaNLP Lab @ Institute for Computational Linguistics ""Antonio Zampolli"", ILC - CNR","IT","Italy","Head of ItaliaNLP Lab (www.italianlp.it) at the Institute of Computational Linguistics ""Antonio Zampolli"" (ILC) - CNR - Pisa","ilc.cnr.it","Yes","https://www.semanticscholar.org/author/Felice-Dell'Orletta/2187131","https://scholar.google.com/citations?user=uhInFTQAAAAJ&hl=it","https://orcid.org/0000-0003-3454-9387","","PhD","2008","felice.dellorletta@gmail.com","Academia","4 or  more events","Yes","5 Oct 2023 10:23:06","2","2","committee","No","No",
+"cloudyclouds","yuntian@uwaterloo.ca","Yuntian","Deng","Allen Institute for AI","US","United States","","fb.com
+harvard.edu
+nvidia.com
+bloomberg.net
+allenai.org
+uwaterloo.ca","Yes","https://www.semanticscholar.org/author/Yuntian-Deng/2505751","https://scholar.google.com/citations?user=tk0e5lYAAAAJ&hl=en","https://orcid.org/0000-0001-5280-8974","https://www.semanticscholar.org/author/Alexander-M.-Rush/2531268
+https://www.semanticscholar.org/author/Marc%27Aurelio-Ranzato/1706809","PhD","2023","dengyuntian@gmail.com","Postdoc","4 or  more events","No","","2","0","committee","No","No",
+"kshitijdeshpande","kshitij.deshpande7@gmail.com","Kshitij","Deshpande","Pune Institute of Computer Technology","IN","India","","","No","","","","","","","","","Never","Yes","No Assignments","","","Author","No","No",
+"aidial","a.diallo@ucl.ac.uk","Aissatou","Diallo","University College London","GB","United Kingdom","","ucl.ac.uk
+tu-darmstadt.de","Yes","https://www.semanticscholar.org/author/A%C3%AFssatou-Diallo/2061820058","","https://orcid.org/0000-0003-1556-2391","https://www.semanticscholar.org/author/A.-Hunter/145805588
+https://www.semanticscholar.org/author/Antonis-Bikakis/1703632
+https://www.semanticscholar.org/author/Luke-Dickens/1935994
+https://www.semanticscholar.org/author/Rob-Miller/2110627166
+https://www.semanticscholar.org/author/Johannes-F%C3%BCrnkranz/1747752
+https://www.semanticscholar.org/author/Markus-Zopf/3372257?sort=pub-date","PhD","2022","aissatou.diallo.16@gmail.com","Postdoc","3 or fewer events","Yes","No Assignments","","","Author","No","No",
+"yue_dong","yue.dong@ucr.edu","Yue","Dong","University of California Riverside","US","United States","Hi, I am Yue Dong, an assistant professor of computer science and engineering at the University of California, Riverside. I obtained my PhD in Computer Science at McGill University and Mila, supervised by Dr. Jackie Cheung. I was fortunate to intern at Google AI, AI2, Microsoft, and Noah's Ark Lab during my PhD.
+
+My research interests include natural language processing, machine learning, and artificial intelligence. I lead the Natural Language Processing group at UCR, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient.","ucr.edu
+mcgill.ca
+microsoft.com
+huaiwei.com","Yes","https://www.semanticscholar.org/author/Yue-Dong/49265991","https://scholar.google.ca/citations?user=WYkn4loAAAAJ&hl=en","0000-0003-2161-856","","PhD","2022","yuedongle@gmail.com","Academia","4 or  more events","Yes","No Assignments","","","manager:committee","Yes","No",
+"avinava","avinava.dubey@gmail.com","Kumar","Dubey","Google Research","US","United States","","google.com
+cmu.edu","Yes","https://www.semanticscholar.org/author/Kumar-Avinava-Dubey/89890133","https://scholar.google.com/citations?user=tBbUAfsAAAAJ","N/A","","PhD","2019","","Industry","4 or  more events","No","No Assignments","","","Author","No","No",
+"noemie","noemie.elhadad@columbia.edu","Noémie","Elhadad","Columbia University","US","United States","","","No","https://www.semanticscholar.org/author/No%C3%A9mie-Elhadad/2763493","","","","PhD","2006","","Academia","4 or  more events","No","No Assignments","","","Author","No","No",
+"r.j.evans","r.j.evans@wlv.ac.uk","Richard","Evans","University of Wolverhampton","GB","United Kingdom","","","Yes","n/a (denotes a large cluster of authors with my name)","","","","PhD","2020","","Academia","4 or  more events","No","","2","0","committee","No","No",
+"alexfabbri","afabbri@salesforce.com","Alex","Fabbri","Salesforce AI Research","US","United States","Research Scientist working on text summarization.","salesforce.com
+yale.edu
+columbia.edu
+amazon.com
+fb.com","Yes","https://www.semanticscholar.org/author/Alexander-Richard-Fabbri/22281632","GgfJdhwAAAAJ","","","PhD","2021","alex.fabbri.ny@gmail.com","Industry","4 or  more events","Yes","6 Oct 2023 20:35:04","2","2","committee","No","No",
+"falke","tobias_falke@web.de","Tobias","Falke","Amazon Alexa AI","DE","Germany","","amazon.com
+tu-darmstadt.de
+aiphes.de","Yes","https://www.semanticscholar.org/author/Tobias-Falke/40390481","https://scholar.google.com/citations?user=do29smUAAAAJ&hl=en","https://orcid.org/0000-0002-9525-0330","","PhD","2019","falket@amazon.com","Industry","4 or  more events","Yes","17 Sep 2023 16:11:55","2","2","committee","No","No",
+"mehwish_fatima","mehwishfatima.raja@gmail.com","Mehwish","Fatima","Heidelberg Institute for Theoretical Studies","DE","Germany","Mehwish Fatima is a last year Ph.D. student in Computational Linguistics at Heidelberg Institute for Theoretical Studies (HITS), Germany, studying under Prof. Dr. Michael Strube. The working title of her thesis is ""Cross-lingual Science Journalism"".
+
+Before coming to Germany, she worked as a lecturer in the Department of Computer Science at Comsats University, Lahore Campus, Pakistan. During that period, she was actively involved in NLP research and co-supervision different master's theses, in addition to her teaching duties. She also volunteered as a reviewer in ""Natural Language Engineering"" and ""Information Processing & Management"". Furthermore, she co-organized the ""MAPonSMS'18"" competition on digital text forensics in collaboration with FIRE'18.","cuilahore.edu.pk
+h-its.org","Yes","https://www.semanticscholar.org/author/Mehwish-Fatima/2703239","https://scholar.google.com/citations?user=zEyTPkMAAAAJ&hl=en","https://orcid.org/0000-0003-3424-2991","https://www.semanticscholar.org/author/M.-Strube/31380436
+https://www.semanticscholar.org/author/R.-M.-A.-Nawab/3024346","Ph.D.","2023","mehwishfatima.raja@gmail.com","Academia","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"firstpaper","xue-yong@dialpad.com","Xue-Yong","Fu","Dialpad Inc","CA","Canada","","","","","","","","","","","","","Yes","No Assignments","","","Author","No","No",
+"fujita","fujita@paraphrasing.org","Atsushi","Fujita","National Institute of Information and Communications Technology","JP","Japan","Atsushi Fujita is a Senior Researcher at National Institute of Information and Communications Technology, Japan.  His research interests include natural language and computational linguistics, especially semantic equivalence and difference of linguistic expressions, such as those in paraphrases and translations.  He received Doctor of Engineering from Nara Institute of Science and Technology in 2005.","nict.go.jp
+nrc.ca
+fun.ac.jp
+nuee.nagoya-u.ac.jp
+pine.kuee.kyoto-u.ac.jp
+is.naist.jp
+is.aist-nara.ac.jp","Yes","https://www.semanticscholar.org/author/Atsushi-Fujita/46566611","ii_8esIAAAAJ","https://orcid.org/0000-0003-3799-8428","","Dr. Eng.","2005","atsushi.fujita@nict.go.jp","Government","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"simaocg","simao.campos.goncalves@gmail.com","Simão","Gonçalves","Priberam","PT","Portugal","","","","","","","","","","","","","Yes","No Assignments","","","Author","No","No",
+"geethi","geethi.nair@ust.com","Geethi","Gopinathan Nair","UST","US","United States","","Geethi.nair@ust.com","No","","","","","","","","Industry","Never","No","No Assignments","","","Author","No","No",
+"seanguan","shuo.guan@cs.nyu.edu","Shuo","Guan","UBS","US","United States","","","No","","","","","","","","","Never","Yes","No Assignments","","","Author","No","No",
+"minghaoguo","zjugmh@zju.edu.cn","Minghao","Guo","Zhejiang University","CN","China","","","","","","","","","","","","","No","No Assignments","","","Author","No","No",
+"thashim","thashim@stanford.edu","Tatsunori","Hashimoto","Stanford","US","United States","","","","","","","","","","","","","Yes","No Assignments","","","Author","No","No",
+"hepc","herbert.he@gmail.com","Pengcheng","He","Microsoft","US","United States","","Microsoft.com","Yes","https://www.semanticscholar.org/author/Pengcheng-He/50462546","https://scholar.google.com/citations?user=TS1RoxAAAAAJ&hl=en","","","Information and signal processing","2010","herbert.he@gmail.com","Industry","Never","No","","2","0","committee","No","No",
+"kyliehe616","jingyi.he@mail.mcgill.ca","Jingyi","He","McGill University","CA","Canada","","","No","","","","","","","","","Never","Yes","No Assignments","","","Author","No","No",
+"hovy","eduard.hovy@unimelb.edu.au","Eduard","Hovy","University of Melbourne","AU","Australia","","unimelb.edu.au
+darpa.mil
+cmu.edu
+isi.edu","Yes","https://www.semanticscholar.org/author/Eduard-H.-Hovy/1694075","8bTz7F4AAAAJ","https://orcid.org/0000-0002-3270-7903","","Ph.D.","1987","ehovy@andrew.cmu.edu","Academia","4 or  more events","No","No Assignments","","","Author","No","No",
+"zhehuderek","hu.zhe@northeastern.edu","Zhe","Hu","Baidu","CN","China","NLP engineer in Baidu, and former master student in NEU.
+https://derekkk.github.io/","baidu.com
+northeastern.edu
+vt.edu","Yes","https://www.semanticscholar.org/author/Zhe-Hu/144869276","oV8sqb0AAAAJ&hl","","23181435
+22262032","Master","2018","zhehu.94@gmail.com","Industry","3 or fewer events","Yes","7 Oct 2023 12:13:54","2","2","committee","No","No",
+"xinyuhua","xinyuhua1994@gmail.com","Xinyu","Hua","Bloomberg","US","United States","","ccs.neu.edu
+northeastern.edu
+ibm.com
+bloomberg.net","Yes","https://www.semanticscholar.org/author/Xinyu-Hua/7156360","","","https://www.semanticscholar.org/author/Avirup-Sil/2707234
+https://www.semanticscholar.org/author/Radu-Florian/1707117
+https://www.semanticscholar.org/author/Kenny-Q.-Zhu/1796651","PhD","2021","hua.x@husky.neu.edu","Industry","4 or  more events","Yes","6 Oct 2023 20:39:19","2","2","committee","No","No",
+"huberpatrick","huberpatrick91@gmail.com","Patrick","Huber","University of British Columbia","CA","Canada","I'm a third-year Ph.D. student at the Computer Science department at the University of British Columbia (UBC) working on discourse related problems within the field of Natural Language Processing (NLP).
+Previously, I graduated from the Karlsruhe Institute of Technology (KIT) in 2017.","kit.edu
+ubc.ca","Yes","https://www.semanticscholar.org/author/Patrick-Huber/144142516","https://scholar.google.ca/citations?user=kYTPmScAAAAJ&hl=en","","https://www.semanticscholar.org/author/Giuseppe-Carenini/1825424
+https://www.semanticscholar.org/author/Alex-Waibel/150035887
+https://www.semanticscholar.org/author/Jan-Niehues/2920247
+https://www.semanticscholar.org/author/Linzi-Xing/15493820
+https://www.semanticscholar.org/author/Wen-Xiao/144780150","PhD","2022","huberpat@cs.ubc.ca","PhD Student","4 or  more events","Yes","5 Oct 2023 17:22:11","2","2","committee","No","No",
+"katerpillar","masoud@cis.lmu.de","Masoud","Jalili Sabet","Center for Information and Speech Processing, Ludwig Maximilian University of Munich","DE","Germany","","lmu.de
+ut.ac.ir
+fbk.eu","Yes","https://www.semanticscholar.org/author/Masoud-Jalili-Sabet/33014152","https://scholar.google.com/citations?user=9nHOYB8AAAAJ","","","","2022","jalili.masoud@gmail.com","PhD Student","4 or  more events","Yes","3 Oct 2023 06:39:04","2","0","committee","No","No",
+"jingjiang","jingjiang@smu.edu.sg","Jing","Jiang","Singapore Management University","SG","Singapore","","smu.edu.sg","Yes","https://www.semanticscholar.org/author/Jing-Jiang/144924150","hVTK2YwAAAAJ","","https://www.semanticscholar.org/author/Shuohang-Wang/2992833
+https://www.semanticscholar.org/author/Yunshi-Lan/3458560
+https://www.semanticscholar.org/author/Jianfei-Yu/143621743","PhD","2008","jingjiang@gmail.com","Academia","4 or  more events","Yes","5 Oct 2023 23:11:38","2","2","committee","No","No",
+"ljohansson","linusjohaansson@gmail.com","Linus","Johansson","Chalmers University of Technology","SE","Sweden","","","","","","","","","","","","","Yes","No Assignments","","","Author","No","No",
+"richardjohansson","richard.johansson@gu.se","Richard","Johansson","University of Gothenburg","SE","Sweden","","","Yes","https://www.semanticscholar.org/author/Richard-Johansson/145341661","FvhWYU8AAAAJ","","","","2008","richardj@df.lth.se","Academia","4 or  more events","No","No Assignments","","","Author","No","No",
+"timkolber","tim.kolber@h-its.org","Tim","Kolber","Heidelberg Institute for Theoretical Studies","DE","Germany","","","Yes","n/a","","","","Bachelor","2023","tim.kolber@stud.uni-heidelberg.de","Other","Never","No","No Assignments","","","Author","No","No",
+"gauravk","gauravk403@gmail.com","Gaurav","Kolhatkar","Pune Institute Of Computer Technology","IN","India","","","No","","","","","","","","","Never","Yes","No Assignments","","","Author","No","No",
+"wkryscinski","wojciech.kryscinski@salesforce.com","Wojciech","Kryscinski","Salesforce Research","US","United States","","google.com
+microsoft.com
+salesforce.com
+kth.se","Yes","https://www.semanticscholar.org/author/Wojciech-Kryscinski/51232396","","","https://www.semanticscholar.org/author/Josephine-Sullivan/50626295
+https://www.semanticscholar.org/author/Shafiq-R.-Joty/2708940
+https://www.semanticscholar.org/author/Tobias-Falke/40390481
+https://www.semanticscholar.org/author/Stephen-Merity/3375440
+https://www.semanticscholar.org/author/James-Bradbury/34963602
+https://www.semanticscholar.org/author/Darsh-J.-Shah/143896588
+https://www.semanticscholar.org/author/Tal-Schuster/32303439","Masters","2018","wkr@kth.se","Industry","3 or fewer events","No","","2","0","committee","No","No",
+"krayush","ayush2503@gmail.com","Ayush","Kumar","Observe.AI","IN","India","","iitp.ac.in
+observe.ai","No","https://www.semanticscholar.org/author/Ayush-Kumar/39215964","https://scholar.google.com/citations?user=p5bBhcEAAAAJ&hl=en&authuser=1&gmla=AJsN-F7OPfM44M6FDnE8NLrLQgfuvMMNspSFtkyePPKFoNwuiX7wsuDes26lfcZOA90gSWyYMdXz8v7kczgsKMcWUNfUGw2IYkc4lNyfTHYHZk0RYjMN-E8&sciund=7885995687906203732&gmla=AJsN-F5AQZxsfesjGu24O4wikYSHUSfOIbIoWCeyfMFev4QHAUYuzpipVuNNBzVnUYSHFrQZaAWcZFxPdlI5py2gpMG2WtIkD4hPRKH3bh-1XYTij8Izok8&sciund=8344697741505349347&gmla=AJsN-F7FZhswcXGJtX799P073JBCw6ZnTdYBFce2LzHk65mYFeAZEprhvJed5L3HtyF1fBkv7NjKH2BxhRVVpc1ZDq0LDFK86Haq5Eqm9T6w-gycW-L2wW0&sciund=3096823269183591248&gmla=AJsN-F4Ay7-ZciSS0spTp3V4SIDG9TvjWEh7uZZVLehOyVdRtrUA2bjZXA3xQ2KkVZcdv7nJ2Ml7pvtd-5d8SUK1CzFrL6TsBcOdBfQFJmw49QPo-muMGgk&sciund=18001615902617417653&gmla=AJsN-F6b3B0VeHEM8lH3sFMREBmCOZIoLgjleHwLnPT_ffG1VV4sEzGlGZyNoW9rQlwa-G4kxVsX5fVojWF6jOdsvd4WtJ3wBEqOsNzmW6S4_4qzTXonDEw&sciund=17618053820436624352&gmla=AJsN-F6CgEvQ9Qp-XXFcted6IQBIVnw0-0e5N3oNNrMUSLVqlYJot49a6fZBvY8-Pcsf6XeuR7jw55tzGrJ8PN__z6TOFwDs1_PjQJJPrb8yFtZEbNVaYzs&sciund=16141585599387187346","","https://www.semanticscholar.org/author/Soujanya-Poria/1746416
+https://www.semanticscholar.org/author/Dushyant-Singh-Chauhan/145036777","NA","2022","krayush.iitp@gmail.com","Industry","3 or fewer events","Yes","No Assignments","","","Author","No","No",
+"beenakumari","beenakumari@umass.edu","Beena","Kumari","University of Massachusetts at Amherst","US","United States","","","","","","","","","","","","","Yes","No Assignments","","","Author","No","No",
+"kvothe","faisal@cs.columbia.edu","Faisal","Ladhak","Columbia University","US","United States","I am PhD Student at Columbia University working on summarization and natural language generation.","amazon.com
+fb.com
+columbia.edu
+stanford.edu","Yes","https://www.semanticscholar.org/author/Faisal-Ladhak/8759332","https://scholar.google.com/citations?user=uF25ydEAAAAJ&hl=en&oi=ao","","https://www.semanticscholar.org/author/Esin-Durmus/41152329","","2023","faisal.ladhak@columbia.edu","PhD Student","4 or  more events","No","No Assignments","","","Author","No","No",
+"tahmedge","tahmid.iut@outlook.com","Md Tahmid Rahman","Laskar","Dialpad Inc","CA","Canada","Currently working as an NLP Applied Scientist @ Dialpad, Canada.","dialpad.com
+cse.yorku.ca","Yes","https://www.semanticscholar.org/author/Md-Tahmid-Rahman-Laskar/46437970","https://scholar.google.com/citations?user=qpnsWPoAAAAJ&hl=en","","","M.Sc.","2020","tahmid.iut@outlook.com","Industry","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"jeyhan","jeyhan.lau@gmail.com","Jey Han","Lau","The University of Melbourne","AU","Australia","","ibm.com
+unimelb.edu.au","Yes","https://www.semanticscholar.org/author/Jey-Han-Lau/1800564","https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en","","","PhD","2013","laujh@unimelb.edu.au","Academia","4 or  more events","No","No Assignments","","","Author","No","No",
+"lehmer16","lehmer16@mit.edu","Eric","Lehman","MIT","US","United States","","lehmer16@mit.edu
+lehman.e@northeastern.edu","Yes","n/a","","","","BOS","","","PhD Student","First time reviewing","No","No Assignments","","","Author","No","No",
+"zhixuli","zhixuli@fudan.edu.cn","Zhixu","Li","Fudan University","CN","China","","Fudan University
+Soochow University
+KAUST","Yes","zhixuli@gmail.com","P1N6z0oAAAAJ","","","PhD Degree in Computer Science","2013","zhixuli@foxmail.com","Academia","4 or  more events","No","No Assignments","","","Author","No","No",
+"miaoli","miaoli.cs@gmail.com","Miao","Li","The University of Melbourne","AU","Australia","https://oaimli.github.io/","unimelb.edu.au","Yes","https://www.semanticscholar.org/author/Miao-Li/2143544766","https://scholar.google.com/citations?user=ySkFXwoAAAAJ&hl=en","0000000216697063","","PhD","2","miao4@student.unimelb.edu.au","PhD Student","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"yunlongliang","yunlonliang@gmail.com","Yunlong","Liang","Beijing Jiaotong University","CN","China","He received the B.S. degree from Hebei University of Technology, Tianjin, China, in 2018. He is currently a Ph.D. candidate in Beijing Jiaotong University, Beijing, China. His research interests include natural language processing, fine-grained sentiment analysis, and emotional response generation, machine translation.","bjtu.edu.cn
+tencent.com","Yes","https://www.semanticscholar.org/author/Yunlong-Liang/3389712","https://scholar.google.com/citations?user=P5iDDGIAAAAJ&hl=en","https://orcid.org/0000-0003-2311-7642","https://www.semanticscholar.org/author/T.-Qian/34559283
+https://www.semanticscholar.org/author/Bing-Liu/67215899
+https://www.semanticscholar.org/author/Hu-Xu/33464127
+https://www.semanticscholar.org/author/Lei-Shu/145142456","Master","2024","1639557544@qq.com","PhD Student","4 or  more events","No","No Assignments","","","Author","No","No",
+"jinhyeong-lim","dlawlsgudsu@naver.com","Jinhyeong","Lim","Graduate School of Electrical Engineering and Computer Science, Jeonbuk National University","KR","Republic of Korea","","","No","","","","","","","","","Never","Yes","No Assignments","","","Author","No","No",
+"pku7yang","yaliu10@microsoft.com","Yang","Liu","Microsoft","US","United States","","ed.ac.uk
+microsoft.com","Yes","39798499","","","","Ph.D.","2020","pku7yang@gmail.com","Industry","4 or  more events","Yes","8 Oct 2023 22:49:43","2","2","committee","No","No",
+"elloret","elloret@dlsi.ua.es","Elena","Lloret","University of Alicante","ES","Spain","Elena Lloret is Lecturer at the University of Alicante in Spain. There, she obtained her PhD on Text Summarisation in 2011. Her main field of interest is  Natural Language Processing (more specifically Text Summarisation), and Natural Language Generation. She is the author of over 60 scientific publications in international peer-reviewed conferences and refereed journals. She has served on the program committee for several international conferences, such as ACL, EACL, RANLP, and COLING. She is a member of the Spanish Society for Natural Language Processing (SEPLN), and she has participated in a number of national and EU-funded projects, among which the current and latest are: Canonical Representation and transformations of texts applied to the Human Language Technologies (TIN2015-65100-R) and SAM - Dynamic Social & Media Content Syndication for 2nd Screen (grant no. 611312). She has also been collaborating with international groups at the University of Wolverhampton (UK), the University of Sheffield (UK), the University of Edinburgh (UK), and the Lorraine Research Laboratory in Computer Science and its Applications in France. Since 2009, she has been involved in teaching activities at the University of Alicante, more specifically she teaches 200 hours per year at the undergraduate degree in Computer Engineering and the degree in Multimedia Engineering, as well as at the master's degree in Information & Communication Technologies for Education and the master’s in English and Spanish for Specific Purposes.","ua.es","Yes","https://www.semanticscholar.org/author/Elena-Lloret/1726968","","","Marta Vicente
+Robiert Sepúlveda
+Estela Saquete","PhD","2011","elena.lloret@ua.es","Academia","4 or  more events","Yes","28 Sep 2023 07:05:40","2","2","committee","No","No",
+"alodha","alodha@umass.edu","Abhilasha","Lodha","University of Massachusetts Amherst","US","United States","","","","","","","","","","","","","Yes","No Assignments","","","Author","No","No",
+"wencan","wencan@google.com","Wencan","Luo","Google","US","United States","","google.com","Yes","https://www.semanticscholar.org/author/Wencan-Luo/3340164","","","","PhD","2017","wencanluo.cn@gmail.com","Industry","4 or  more events","Yes","7 Oct 2023 04:05:12","2","2","committee","No","No",
+"sudeepm","sudeepm117@gmail.com","Sudeep","Mangalvedhekar","Pune Institute Of Computer Technology","IN","India","","","","","","","","","","","","","No","No Assignments","","","Author","No","No",
+"k.markert","markert@cl.uni-heidelberg.de","Katja","Markert","Heidelberg University","DE","Germany","PhD 1999
+Postdoc 1999- 2003 (University of Edinburgh)
+2003 - 2016 Lecturer, then senior lecturer then Reader at University of Leeds, UK
+since 2016 chair of computational linguistics at Heidelberg University, Germany","leeds.ac.uk
+uni-hannover.de
+uni-heidelberg.de","Yes","https://www.semanticscholar.org/author/K.-Markert/1686341","","","https://www.semanticscholar.org/author/M.-Strube/31380436
+https://www.semanticscholar.org/author/Yufang-Hou/39517968
+https://www.semanticscholar.org/author/U.-Hahn/1744669
+https://www.semanticscholar.org/author/Lili-Mou/38956216
+https://www.semanticscholar.org/author/Olga-Vechtomova/1712417
+https://www.semanticscholar.org/author/Yao-Lu/2143370890
+https://www.semanticscholar.org/author/Avishek-Anand/39775488
+https://www.semanticscholar.org/author/B.-Fetahu/1923602
+https://www.semanticscholar.org/author/Ines-Rehbein/3019312","PhD","1999","","Academia","4 or  more events","No","No Assignments","","","Author","No","No",
+"adnanmasood","adnanmasood@gmail.com","Adnan","Masood","UST","US","United States","Dr. Adnan Masood is responsible for the firm's overall strategy for cognitive computing, artificial intelligence, machine learning, and academic relationships. He is recognized as Microsoft Regional Director, and MVP (Most Valuable Professional) for Artificial Intelligence by Microsoft for his outstanding contributions in the field. Dr. Masood is the Co-Author of Microsoft AI Playbook and collaborates with Stanford Artificial Intelligence Lab, MIT Computer Science & AI Lab, and leads a team of data scientists and engineers building artificial intelligence solutions to produce business value and insights that affect a range of businesses, products, and initiatives. Throughout his career, Dr. Masood has been a trusted advisor to the C-suite, from Fortune 500 companies to startups. Dr. Masood is Stevie Award winner for Technical Professional of the Year. Author of Amazon bestseller in programming languages, ""Functional Programming with F#"", and Cognitive Computing Recipes: Artificial Intelligence Solutions Using Microsoft Cognitive Services and TensorFlow. Adnan teaches Data Science at Park University, and has taught Windows WCF courses at UCSD. He is an international speaker to academic and technology conferences, code camps, and user groups.","ust.com
+stanford.edu
+nova.edu","Yes","","WgunFCMAAAAJ","","","PhD","2014","adnan.masood@ust.com","Industry","Never","Yes","No Assignments","","","Author","No","No",
+"afonsoamendes","amm@priberam.pt","Afonso","Mendes","Priberam Informática, SA.","PT","Portugal","","Priberam Informática, SA","Yes","https://www.semanticscholar.org/author/A.-Mendes/7648693","","0000-0001-5127-9038","","","","","Industry","Never","No","No Assignments","","","Author","No","No",
+"mengfandong","fandongmeng@tencent.com","Fandong","Meng","WeChat AI, Tencent","CN","China","NA","tencent.com","Yes","https://www.semanticscholar.org/author/Fandong-Meng/49435188","https://scholar.google.com/citations?user=sA8U4S0AAAAJ&hl=en","https://orcid.org/0000-0002-8158-2377","","Ph.D","2016","dfmeng1988@gmail.com","Industry","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"robertmercer","mercer@csd.uwo.ca","Robert E.","Mercer","The University of Western Ontario","CA","Canada","","uwo.ca","Yes","https://www.semanticscholar.org/author/Robert-E.-Mercer/144549038","https://scholar.google.ca/citations?user=UDAYdq4AAAAJ&hl=en","https://orcid.org/0000-0002-0080-715X","n/a","PhD","1987","rmercer@uwo.ca","Academia","First time reviewing","No","No Assignments","","","Author","No","No",
+"mieskes","margot.mieskes@h-da.de","Margot","Mieskes","University of Applied Sciences, Darmstadt","DE","Germany","","eml-r.org
+eml.org
+dipf.de
+ukp.tu-darmstadt.de","Yes","https://www.semanticscholar.org/author/Margot-Mieskes/2921990","https://scholar.google.de/citations?user=NSHuWowAAAAJ","","","PhD/Dr. Ing.","2009","margot.mieskes@gmx.net","Academia","4 or  more events","Yes","4 Oct 2023 19:35:42","2","2","committee","No","No",
+"diego.molla-aliod","diego.molla-aliod@mq.edu.au","Diego","Molla","Macquarie University","AU","Australia","My research contribution focuses topics related to automated text-based question answering and summarisation. Since 2009 I have focused on medical text processing.
+
+I joined the University of Zurich and became the principal researcher in the ExtrAns and WebExtrAns projects (from 1996 to 2001). Both projects were based on the development of answer extraction systems. Answer extraction systems locate those sentences in the source text that contain the answer posed by the user. The outcome of the project was a working system that handles questions about 500 Linux/Unix documentation documents (""manpages""). I was the principal designer of the overall system and the integration of all modules. I was also the principal contributor to the design of the logical forms and the question-answering method that used the logical forms. The success of ExtrAns and WebExtrAns is evident from the fact that the system is cited as a pioneering question-answering system, an example of a question answering system of technical domains, and an example of the use of logical forms for question answering.
+
+In Macquarie University I established the AnswerFinder project. AnswerFinder is a question answering system that combines the use of logical information (inspired from ExtrAns and WebExtrAns), state-of-the-art approaches in question answering, and innovative graph-based machine learning methods to find the exact answer to the user question. AnswerFinder has participated in the question answering track of the Text REtrieval conference (TREC), the main international forum for the evaluation of question-answering systems, between 2003 and 2006. AnswerFinder is in fact the only Australian-based question answering system that has participated in the question answering track of TREC.
+
+Since 2009 I have led various projects related to the development and application of text-processing technologies that help the medical doctor find and appraise clinical evidence found in the vast resources of medical publications. I have gathered a summarisation corpus sourced from the Journal of Family Practice, and used the corpus to develop and evaluate techniques for text summarisation, clustering, keyword exraction, and appraisal of the medical evidence. I have participated in the BioASQ challenge since 2017.","mq.edu.au","Yes","https://www.semanticscholar.org/author/Diego-Molla-Aliod/6969828","https://scholar.google.com.au/citations?user=FZhJRQUAAAAJ&hl=en","https://orcid.org/0000-0003-4973-0963","https://www.semanticscholar.org/author/Mark-Johnson/145177220
+https://www.semanticscholar.org/author/Mark-Dras/1795294","PhD","1996","dmollaaliod@gmail.com","Academia","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"nmonath","nmonath@google.com","Nicholas","Monath","Google","US","United States","I am a research scientist at Google. I received by PhD in computer science at the University of Massachusetts Amherst advised by Professor Andrew McCallum. I am a member of the Information Extraction and Synthesis Laboratory. My research focuses on machine learning and natural language processing. I received my B.S. in computer science and mathematics from Brandeis University in 2013 where I worked with Professors James Storer and Antonella Di Lillo.","umass.edu
+cs.umass.edu
+google.com","Yes","https://www.semanticscholar.org/author/Nicholas-Monath/2111658","https://scholar.google.com/citations?user=PTfhfCQAAAAJ&hl=en","https://orcid.org/0000-0002-5135-2423","https://www.semanticscholar.org/author/Avinava-Dubey/89890133","PhD","2022","nicholas.monath@gmail.com","Industry","4 or  more events","No","No Assignments","","","Author","No","No",
+"demon702","debanjanmond@umass.edu","Debanjan","Mondal","University of Massachusetts Amherst","US","United States","","","","","","","","","","","","","Yes","No Assignments","","","Author","No","No",
+"nomoto","nomoto@acm.org","Tadashi","Nomoto","National Institute of Japanese Literature","JP","Japan","","nijl.ac.jp","Yes","https://www.semanticscholar.org/author/T.-Nomoto/2842296","https://scholar.google.com/citations?user=zBqLkLEAAAAJ&hl=en","https://orcid.org/0000-0002-3261-6403","","PhD","2004","tadashi.nomoto@gmail.com","Academia","4 or  more events","Yes","4 Oct 2023 01:45:58","2","2","committee","No","No",
+"tobiasnorlund","tobiasno@chalmers.se","Tobias","Norlund","Chalmers University of Technology / Recorded Future","SE","Sweden","","","No","https://www.semanticscholar.org/author/Tobias-Norlund/16960142","https://scholar.google.se/citations?user=XRF6HXgAAAAJ","https://orcid.org/0000-0002-4598-86522","","","","","","Never","No","No Assignments","","","Author","No","No",
+"okazaki","okazaki@c.titech.ac.jp","Naoaki","Okazaki","Tokyo Institute of Technology","JP","Japan","Naoaki Okazaki is a professor in School of Computing, Tokyo Institute of Technology, Japan. Prior to this faculty position, he worked as a post-doctoral researcher in University of Tokyo (in 2007-2011), and as an associate professor in Tohoku University (2011-2017). He is also a visiting research scholar of the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology (AIST). His research areas include Natural Language Processing (NLP), Artificial Intelligence (AI), and Machine Learning.","titech.ac.jp
+tohoku.ac.jp
+aist.go.jp","Yes","https://www.semanticscholar.org/author/Naoaki-Okazaki/1764004","","","https://www.semanticscholar.org/author/Nakazawa-Toshiaki/1392161061
+https://www.semanticscholar.org/author/Yoshimasa-Tsuruoka/1703975
+https://www.semanticscholar.org/author/Hideki-Nakayama/48731103
+https://www.semanticscholar.org/author/Kentaro-Inui/3040648
+https://www.semanticscholar.org/author/Jun'ichi-Tsujii/7871755","PhD","2007","nao@chokkan.sakura.ne.jp","Academia","4 or  more events","Yes","7 Oct 2023 23:47:24","2","2","committee","No","No",
+"oku","oku@pi.titech.ac.jp","Manabu","Okumura","Tokyo Institute of Technology","JP","Japan","","titech.ac.jp","Yes","https://www.semanticscholar.org/author/Okumura-Manabu/9460257","https://scholar.google.com/citations?user=NpQMX_8AAAAJ&hl=ja","","","","1989","oku@lr.pi.titech.ac.jp","Academia","4 or  more events","Yes","7 Oct 2023 04:30:17","2","2","committee","No","No",
+"ouyangj","jessica.ouyang@utdallas.edu","Jessica","Ouyang","University of Texas at Dallas","US","United States","","utdallas.edu
+columbia.edu","Yes","https://www.semanticscholar.org/author/Jessica-Ouyang/2112778","","","https://www.semanticscholar.org/author/Kathleen-McKeown/145590324
+https://www.semanticscholar.org/author/Ming-Ouyang/3146732","PhD","2019","sandanzuki@gmail.com","Academia","4 or  more events","Yes","20 Sep 2023 17:07:20","2","2","committee","No","No",
+"vishakhpk","vp1271@nyu.edu","Vishakh","Padmakumar","New York University","US","United States","I am a third year PhD Student at the Center for Data Science at New York University where I am advised by Prof. He He. My research is broadly in the field of natural language processing and machine learning. I'm currently working on text generation for creative writing tasks and in interactive settings.","nyu.edu","Yes","https://www.semanticscholar.org/author/Vishakh-Padmakumar/2044959912","OeBKZ8AAAAAJ","0000-0002-3396-3589","","PhD","2025","vishakhpadmakumar@gmail.com","PhD Student","3 or fewer events","No","No Assignments","","","Author","No","No",
+"adityaparanjape","adifeb24@gmail.com","Aditya","Paranjape","Pune Institute of Computer Technology","IN","India","","","","","","","","","","","","","Yes","No Assignments","","","Author","No","No",
+"kevin.patel","kevin.patel.iitb@gmail.com","Kevin","Patel","Observe.ai","IN","India","Machine Learning Scientist at Observe.ai","observe.ai
+iitb.ac.in
+iisc.ac.in
+ibm.in","Yes","https://www.semanticscholar.org/author/Kevin-Patel/1780546","rtYRbqkAAAAJ","","https://www.semanticscholar.org/author/Chandrahas-Dewangan/41076487
+https://www.semanticscholar.org/author/Harikrishna-Narasimhan/1727387
+https://www.semanticscholar.org/author/Anoop-Kunchukuttan/1711973
+https://www.semanticscholar.org/author/Joe-Cheri-Ross/29610952
+https://www.semanticscholar.org/author/Raksha-Sharma/2759305","Ph.D","2022","kevin.svnit@gmail.com","Industry","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"dpernes","diogo.pernes@priberam.pt","Diogo","Pernes","Priberam; University of Porto","PT","Portugal","","inesctec.pt
+fe.up.pt
+priberam.pt
+priberam.com","Yes","https://www.semanticscholar.org/author/Diogo-Pernes/2022615","https://scholar.google.com/citations?user=KJMO7ckAAAAJ","https://orcid.org/0000-0001-5246-0402","","PhD","2021","diogo.pernes.cunha@gmail.com","Industry","Never","No","No Assignments","","","Author","No","No",
+"peyrardm","maxime.peyrard@epfl.ch","Maxime","Peyrard","EPFL","CH","Switzerland","","epfl.ch
+tu-darmstadt.de","Yes","https://www.semanticscholar.org/author/Maxime-Peyrard/35512303","RFMdKLMAAAAJ&hl","","","PhD","2019","peyrard.max43@gmail.com","Postdoc","4 or  more events","Yes","25 Sep 2023 13:26:44","2","1","committee","No","No",
+"ponzetto","simone@informatik.uni-mannheim.de","Simone Paolo","Ponzetto","University of Mannheim","DE","Germany","","uni-mannheim.de","Yes","https://www.semanticscholar.org/author/Simone-Paolo-Ponzetto/1801255","","","","","2009","ponzius@gmail.com","Academia","4 or  more events","Yes","8 Oct 2023 13:51:18","2","2","committee","No","No",
+"jianfeng","jfqu@suda.edu.cn","Jianfeng","Qu","Soochow University","CN","China","","","","","","","","","","","","","No","No Assignments","","","Author","No","No",
+"der_einzige","gedboy2112@gmail.com","Allen","Roush","University of Oregon","US","United States","","","Yes","","","","","","","","","Never","Yes","No Assignments","","","Author","No","No",
+"ankita132","2ankitasahoo13@gmail.com","Ankita","Sahoo","University of Massachusetts Amherst","US","United States","","","","","","","","","","","","","Yes","No Assignments","","","Author","No","No",
+"orishapira","obspp18@gmail.com","Ori","Shapira","Amazon","IL","Israel","","live.biu.ac.il
+amazon.com","Yes","https://www.semanticscholar.org/author/Ori-Shapira/15392843","s7djZnUAAAAJ","","https://www.semanticscholar.org/author/Ido-Dagan/7465342
+https://www.semanticscholar.org/author/Yael-Amsterdamer/1710637","PhD","2022","obspp@hotmail.com","Industry","4 or  more events","Yes","18 Sep 2023 15:25:20","2","2","committee","No","No",
+"pshar053","pshar053@ucr.edu","Priyanshu","Sharma","University of California, Riverside","US","United States","","","","","","","","","","","","","Yes","14 Oct 2023 18:23:43","1","1","committee","No","No",
+"a1007081080","hollis.shi@toki.waseda.jp","Haoxiang","Shi","Waseda University","JP","Japan","D2 student in Waseda university, supervised by Professor Sakai, my research focus on contrastive learning, text classification, NER and latent representation","hollis.shi@toki.waseda,jp","Yes","n/a","","","","Doctor degree","2021.9","1007081080@qq.com","PhD Student","3 or fewer events","No","No Assignments","","","Author","No","No",
+"ssinghar","ssinghar@uwo.ca","Sudipta","Singha Roy","University of Western Ontario","CA","Canada","","uwo.ca","Yes","https://www.semanticscholar.org/author/Sudipta-Singha-Roy/2164696118","https://scholar.google.ca/citations?user=Hz5KmdgAAAAJ&hl=en","https://orcid.org/0000-0003-2640-6300","","M.Sc.","2020","sudipta.singha.roy@iict.kuet.ac.bd","PhD Student","Never","Yes","No Assignments","","","Author","No","No",
+"sheetal_sonawane","sssonawane@pict.edu","Sheetal","Sonawane","Associate professor","IN","India","My main research interests are in the areas of Natural Language Processing, Data Mining and Information Retrieval. My Ph.D. work is related to Semigraph for extractive summarization of text documents. I have published widely in international journals and conferences and has more than 800 citations. I am recipient of Best Paper Award for IEEE Conference paper. I am author of two books published by Springer. I have also written book chapters in books like Big data analytics by PHI Publication and Semigraph and their applications by the academy of discrete mathematics and applications and CRC book, India. I am a reviewer of conferences and journals like MDPI, Elsevier, Interscience. 
+I have focussed in the last few years on the research issued in machine learning, handling big unstructured data and graph models for representing and analyzing text documents. 
+I am guiding undergraduate students and postgraduate students in the area of information retrieval, machine learning, Natural Language processing and graph theory.
+Currently I am working with Pune Institute of Computer Technology from last 20 years.","sssonawane@pict.edu","Yes","39786233","https://scholar.google.co.in/citations?user=sJLqr_4AAAAJ&hl=en","0000-0002-8733-8340","2655256
+145397234","Phd","2018","Sheetal.s.sonawane@gmail.com","Academia","First time reviewing","Yes","No Assignments","","","Author","No","No",
+"kqsong","kqsong2014@gmail.com","Kaiqiang","Song","Tencent AI Lab","US","United States","","us.bosch.com
+tencent.com
+global.tencent.com
+ucf.edu","Yes","https://www.semanticscholar.org/author/Kaiqiang-Song/50982080","https://scholar.google.com/citations?user=PHoJwakAAAAJ&hl=en","","","Ph.D.","","kqsong2014@gmail.com","Industry","4 or  more events","Yes","10 Oct 2023 04:41:26","2","2","committee","No","No",
+"hyunjeng","songhyunje@gmail.com","Hyun-Je","Song","Jeonbuk National University","KR","Republic of Korea","","jbnu.ac.kr
+navercorp.com
+knu.ac.kr","Yes","https://www.semanticscholar.org/author/Hyun-Je-Song/144447316","https://scholar.google.com/citations?user=oZKzIKYAAAAJ","0000-0002-9109-2611","https://www.semanticscholar.org/author/Seong-Bae-Park/1786338","PhD","2015","hyunje.song@jbnu.ac.kr","Academia","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"arpitsood","soodfirst@gmail.com","Arpit","Sood","Meta Inc.","US","United States","","iiit.ac.in
+meta.com","Yes","https://www.semanticscholar.org/author/Arpit-Sood/1887762","https://scholar.google.com/citations?user=HXgMXMcAAAAJ&hl=en","","","","","arpitsood@meta.com","Industry","4 or  more events","Yes","19 Oct 2023 21:44:31","2","2","committee","No","No",
+"strube","michael.strube@h-its.org","Michael","Strube","Heidelberg Institute for Theoretical Studies","DE","Germany","Group Leader NLP at Heidelberg Institute for Theoretical Studies
+(some sort of) Professor at Heidelberg University","h-its.org
+uni-heidelberg.de
+aiphes.tu-darmstadt.de","No","31380436","s0_rS0kAAAAJ","","","PhD","1996","-","Other","4 or  more events","No","No Assignments","","","Author","No","No",
+"zengksun","acerkoo747@gmail.com","Zengkui","Sun","Beijing Jiaotong university","CN","China","","bjtu.edu.cn","No","","","","","","","","","Never","Yes","No Assignments","","","Author","No","No",
+"aixinsun","axsun@ntu.edu.sg","Aixin","Sun","Nanyang Technological University","SG","Singapore","Dr. Sun Aixin is an Associate Professor and Assistant Chair (Academic) at the School of Computer Science and Engineering (SCSE), Nanyang Technological University (NTU), Singapore. He is an associate editor of ACM TOIS and Neurocomputing, editorial board member of JASIST and the Information Retrieval Journal. He has served as the demonstration track co-chair for SIGIR2020, ICDM2018, CIKM2017, PC co-chair for AIRS2019, and general chair for ADMA2017. He has also served as Area Chair, Senior PC member or PC member for many conferences including SIGIR, WWW, WSDM, EMNLP, AAAI, and IJCAI.","ntu.edu.sg","Yes","https://www.semanticscholar.org/author/Aixin-Sun/1735962","wyKGVKUAAAAJ","0000-0003-0764-4258","","PhD","2004","sunaixin@yahoo.com","Academia","4 or  more events","No","No Assignments","","","Author","No","No",
+"xrtang","xarutang@gmail.com","Xiangru","Tang","Yale University","US","United States","","","Yes","","https://scholar.google.com/citations?user=gGcRkpYAAAAJ","","","PhD","2026","xrtang@berkeley.edu","Academia","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"yuting_tang","ytang021@e.ntu.edu.sg","Yuting","Tang","Nanyang Technological University","SG","Singapore","","","","","","","","","","","","","Yes","No Assignments","","","Author","No","No",
+"nadi.tomeh","tomeh@lipn.fr","Nadi","Tomeh","LIPN-CNRS, Université Sorbonne Paris Nord","FR","France","","univ-paris13.fr
+columbia.edu
+universite-paris-saclay.fr","Yes","https://www.semanticscholar.org/author/Nadi-Tomeh/2891042","YDHX06gAAAAJ","https://orcid.org/0000-0002-1813-3579","","PhD","2012","nadi.tomeh@gmail.com","Academia","4 or  more events","No","No Assignments","","","Author","No","No",
+"tongrong","Tong.rong@singaporetech.edu.sg","Rong","Tong","Singapore institute of technology","SG","Singapore","","","No","","","","","","","","","Never","No","No Assignments","","","Author","No","No",
+"juan-manuel.torres","juan-manuel.torres@univ-avignon.fr","Juan-Manuel","Torres-Moreno","LIA Avignon","FR","France","","https://lia.univ-avignon.fr/","Yes","","","","","","1998","","Academia","4 or  more events","Yes","5 Oct 2023 19:24:54","2","2","committee","No","No",
+"subha_v","subhavee2@gmail.com","Subhadra","Vadlamannati","Mercer Island High School","US","United States","","","Yes","https://www.semanticscholar.org./author/Subhadra-Vadlamannati/2159359830","","","","","","","","Never","Yes","No Assignments","","","Author","No","No",
+"giu.venturi","giulia.venturi@ilc.cnr.it","Giulia","Venturi","Institute of Computational Linguistics ""Antonio Zampolli"" (ILC-CNR)","IT","Italy","","ilc.cnr.it","Yes","https://www.semanticscholar.org/author/Giulia-Venturi/35068913","https://scholar.google.com/citations?user=UdWNS-UAAAAJ&hl=it&oi=ao","https://orcid.org/0000-0001-5849-0979","","","","calicaluccio@gmail.com","Academia","4 or  more events","Yes","6 Oct 2023 10:38:50","2","2","committee","No","No",
+"jithendra.v","jithendra.vepa@gmail.com","Jithendra","Vepa","Observe AI","IN","India","Jithendra is a recognised expert in spoken language technologies and  worked on both research and development of automatic speech recognition (ASR), Text-to-speech (TTS) and natural language processing (NLP) technologies for the last two decades. One of the notable contributions of him is ASR for Global English in Samsung's personal voice assistant, Bixby.
+Jithendra received Ph.D. from University of Edinburgh and spent 3 years as a researcher at IDIAP research institute (affiliated to EPFL, Switzerland) before moving to the Industry. He has authored more than 35 peer-reviewed publications and filed 8 patent applications. ","CSTR, IDIAP, Philips Research, Samsung R&D","Yes","https://www.semanticscholar.org/search?q=%22Jithendra%20Vepa%22&sort=relevance","","","","","2004","jithendra@observe.ai","Industry","First time reviewing","No","No Assignments","","","Author","No","No",
+"villatoroe","esau.villatoro@idiap.ch","Esau","Villatoro-Tello","Idiap Research Institute","CH","Switzerland","Currently, I'm a Research Associate at the Idiap research institute. I'm collaborating with Dr. Petr Motlicek in the Speech and Audio Processing Group. From 2012 - 2022 I worked at the Universidad Autonoma Metropolitana campus Cuajimalpa (UAM-C) in Mexico City. I'm an active member of the Language and Reasoning research group (LyR) in the Information Technologies Department of the same University. Also, I'm an external member of the Laboratory of Language Technologies (LabTL) of the Computational Sciences Department at the National Institute of Astrophysics, Optics and Electronics (INAOE), located in Puebla, Mexico. I'm also a member of the Mexican Association for Natural Language Processing (AMPLN), the Hispano-American Network for Automatic Human Language Processing (RedHisTAL) and a member of the Mexican Academy of Computer Science (AMEXCOMP).","inaoep.mx
+cua.uam.mx
+idiap.ch","Yes","https://www.semanticscholar.org/author/Esa%C3%BA-Villatoro-Tello/1398324221","villatoroe","0000-0002-1322-0358","","PhD","2010","villatoroe@gmail.com","Academia","4 or  more events","Yes","6 Oct 2023 06:54:32","2","2","committee","No","No",
+"krystal4n","jawang.nlp@gmail.com","Jiaan","Wang","School of Computer Science and Technology, Soochow University, Suzhou, China","CN","China","NLP Master's Student. Mainly interested in NLG. Homepage: https://wangjiaan.cn/","suda.edu.cn
+mihoyo.com","Yes","https://www.semanticscholar.org/author/2118328782","https://scholar.google.com/citations?user=5S8h7qAAAAAJ&hl=en","https://orcid.org/0000-0002-2587-7648","https://www.semanticscholar.org/author/Zhixu-Li/115419489
+https://www.semanticscholar.org/author/An-Liu/144806511","Master","2023","wangjiaan98@hotmail.com","Industry","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"binwang_28","bwang28c@gmail.com","Bin","Wang","National University of Singapore","SG","Singapore","Bin Wang received his B.Eng. degree in electronic information engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in June 2017, and his Ph.D. degree in electrical engineering from the University of Southern California (USC), Los Angeles, CA, USA, in May 2021. He is currently a Research Fellow with the National University of Singapore (NUS), Singapore. His research interests include representation learning, graph learning, and dialogue summarization.","usc.edu
+nus.edu.sg","Yes","https://www.semanticscholar.org/author/Bin-Wang/144461647","jUrRMv4AAAAJ&hl","0000-0001-9760-8343","n/a","Ph.D.","2021","bin.wang@nus.edu.sg","Postdoc","4 or  more events","No","No Assignments","","","Author","No","No",
+"etsurin","etsurin@iis.u-tokyo.ac.jp","Yueguan","Wang","the University of Tokyo","JP","Japan","","etsurin@iis.u-tokyo.ac.jp
+wangyueguan@westlake.edu.cn
+wangyuel18@mail.tsinghua.org.cn","No","https://www.semanticscholar.org/author/Yueguan-Wang/40349036","","","","Bachelor in Engineering","2022","","","Never","Yes","No Assignments","","","Author","No","No",
+"xiaowen3","xiaowen3@cs.ubc.ca","Wen","Xiao","University of British Columbia","CA","Canada","Fourth-year PhD student at University of British Columbia.","cs.ubc.ca
+allenai.org
+microsoft.com","Yes","https://www.semanticscholar.org/author/Wen-Xiao/144780150","https://scholar.google.com/citations?user=xiVBcUIAAAAJ&hl=en","https://orcid.org/0000-0001-6070-856X","https://www.semanticscholar.org/author/Patrick-Huber/144142516
+https://www.semanticscholar.org/author/Linzi-Xing/15493820","PhD","2023","wendyxiao0609@gmail.com","PhD Student","4 or  more events","Yes","21 Oct 2023 22:08:58","1","0","manager:committee","Yes","No",
+"linzixing","lzxing@cs.ubc.ca","Linzi","Xing","University of British Columbia","CA","Canada","I am currently a fifth year computer science Ph.D. candidate at University of British Columbia (UBC). I obtained my M.S. degree from the Department of Computer Science, University of Colorado Boulder in 2018. Before that, I received my B.S. degree from School of Computer Science & Technology, Soochow University in 2016. I am mostly interested in natural language processing and machine learning. Particularly, I am working on (1) integrating topic models with other neural-based models; (2) dialogue modeling; (3) debiasing of extractive summarization.","huawei.com
+adobe.com
+cs.ubc.ca","Yes","https://www.semanticscholar.org/author/Linzi-Xing/15493820","https://scholar.google.com/citations?authorid=CXghWHMAAAAJ&user=CXghWHMAAAAJ","n/a","https://www.semanticscholar.org/author/Michael-J.-Paul/143946641
+https://www.semanticscholar.org/author/Giuseppe-Carenini/1825424
+https://www.semanticscholar.org/author/Patrick-Huber/144142519
+https://www.semanticscholar.org/author/Wen-Xiao/144780150
+https://www.semanticscholar.org/author/Xiaolei-Huang/144007496
+https://www.semanticscholar.org/author/Quan-Hung-Tran/2536742","Ph.D","2023","lxing532@gmail.com","Academia","3 or fewer events","Yes","3 Oct 2023 05:18:33","2","2","committee","No","No",
+"xinnuo","xxu3@ed.ac.uk","Xinnuo","Xu","University of Edinburgh","GB","United Kingdom","I am a postdoc from The University of Edinburgh. My research topic is controllable nature language generation. Right now I am mainly focusing on NLG and summarization.","ed.ac.uk","Yes","https://www.semanticscholar.org/author/Xinnuo-Xu/31501619","","","","","2022","s1687314@sms.ed.ac.uk","Postdoc","4 or  more events","Yes","16 Oct 2023 23:05:39","2","2","committee","No","No",
+"sharhoo","jiacheng.xu@salesforce.com","Jiacheng","Xu","Salesforce AI Research","US","United States","","salesforce.com
+utexas.edu","Yes","https://www.semanticscholar.org/author/Jiacheng-Xu/34837371","yfbcnfUAAAAJ","","https://www.semanticscholar.org/author/Greg-Durrett/1814094","PhD","2022","jcxu@utexas.edu","Industry","4 or  more events","Yes","9 Oct 2023 16:33:18","2","1","committee","No","No",
+"jaxu","jaxu@bjtu.edu.cn","Jinan","Xu","Beijing Jiaotong University","CN","China","Prof. Xu got his PHD from Hokkaido University, and now he works for Beijing Jiaotong University, his main research fields include NLP, MT, KG, AI etc.","bjtu.edu.cn
+nec.co.jp
+hokudai.ac.jp","Yes","https://www.semanticscholar.org/author/Jinan-Xu/2310092","","https://orcid.org/0000-0003-0170-626X","https://www.semanticscholar.org/author/K.-Araki/144710424","Doctor","2006","xja2006@qq.com","Academia","4 or  more events","No","No Assignments","","","Author","No","No",
+"ynaga","ynaga@iis.u-tokyo.ac.jp","Naoki","Yoshinaga","Institute of Industrial Science, The University of Tokyo","JP","Japan","He received his Ph.D. from the University of Tokyo in 2005.He has been JSPS Research Fellow (DC1, PD) from 2002 to 2008, and Associate Professor at the University of Tokyo since 2016. His research interests include computational linguistics and machine learning, in particular natural language processing in the wild: efficient natural language processing, adaptation to diverse languages/domains/individuals, and knowledge acquisition.","u-tokyo.ac.jp","Yes","https://www.semanticscholar.org/author/Naoki-Yoshinaga/34849332","exgkDkcAAAAJ","0000-0002-2160-2604","","PhD","2005","y.naoki@gmail.com","Academia","4 or  more events","Yes","No Assignments","","","Author","No","No",
+"hz19e","haopeng@ifmlab.org","Haopeng","Zhang","University of California, Davis","US","United States","Ph.D. student at UC Davis, working on summarization.","fsu.edu
+gatech.edu
+ucdavis.edu","Yes","https://www.semanticscholar.org/author/Haopeng-Zhang/2135688409","https://scholar.google.com/citations?user=DT_HlbYAAAAJ&hl=en","","n/a","Doctor","2023","hapzhang@ucdavis.edu","PhD Student","4 or  more events","Yes","3 Oct 2023 22:00:50","2","2","committee","No","No",
+"ryanzh","rmz5227@psu.edu","Rui","Zhang","Penn State University","US","United States","","yale.edu
+umich.edu
+grammarly.com
+google.com
+ibm.com
+psu.edu","No","https://www.semanticscholar.org/author/Rui-Zhang/144142360","","","","PhD","2020","ryanzh@umich.edu","Academia","4 or  more events","Yes","2 Oct 2023 13:20:37","2","2","committee","No","No",
+"zhaoyilun","yilun.zhao@yale.edu","Yilun","Zhao","Yale University","US","United States","","zju.edu
+buaa.edu.cn
+microsoft.com
+osu.edu","Yes","https://www.semanticscholar.org/author/46316984","https://scholar.google.com/citations?user=8YKT31kAAAAJ","","","","","","","4 or  more events","No","No Assignments","","","Author","No","No",
+"mzhong","mingz5@illinois.edu","Ming","Zhong","University of Illinois Urbana-Champaign","US","United States","","fudan.edu.cn
+illinois.edu","Yes","https://www.semanticscholar.org/author/Ming-Zhong/1606040932","https://scholar.google.com/citations?user=mnifqeUAAAAJ&hl=en","","","","","","PhD Student","4 or  more events","Yes","7 Oct 2023 04:03:32","2","2","committee","No","No",
+"jerryitp","withtomzhou@tencent.com","Jie","Zhou","Tencent Inc.","CN","China","director of WeChat AI","baidu.com
+tencent.com","No","https://www.semanticscholar.org/author/Jie-Zhou/49178343","https://scholar.google.com.hk/citations?user=OijxQCMAAAAJ&hl=en","0000-0002-5899-5165","","Ph.D","2009","jerryitp@gmail.com","Industry","3 or fewer events","No","No Assignments","","","Author","No","No",
+"beiqizou","bqzic99@gmail.com","Beiqi","Zou","PrincetonUniversity","US","United States","","","","","","","","","","","","","No","No Assignments","","","Author","No","No",

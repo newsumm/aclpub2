@@ -8,16 +8,13 @@
     institution: Microsoft Azure AI, Canada 
     last_name: Xiao
   role: Vice General Chair, Presentation Chair
+- members:
   - first_name: Wang
     institution: University of Michigan, USA
     last_name: Lu
-  role: Advisory Chair
-- members:
   - first_name: Fei
     institution: Emory University, USA
     last_name: Liu
-  role: Advisory Chair
-- members:
   - first_name: Giuseppe
     institution: University of British Columbia, Canada
     last_name: Carenini

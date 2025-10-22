@@ -1,0 +1,15 @@
+anthology_venue_id: ACL
+book_title: Proceedings of the The 4th New Frontiers in Summarization Workshop (NewSumm)
+  (XXX)
+cover_subtitle: Proceedings of the Conference (XXX)
+editors:
+- first_name: Yue
+  last_name: Dong
+- first_name: Wen
+  last_name: Xiao
+end_date: XXXX-XX-XX
+event_name: The 4th New Frontiers in Summarization Workshop (NewSumm)
+isbn: XXX-X-XXXXXX-XX-X
+location: Singapore
+publisher: Association for Computational Linguistics
+start_date: XXXX-XX-XX
